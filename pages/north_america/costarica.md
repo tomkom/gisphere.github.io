@@ -1,6 +1,6 @@
 ## Costa Rica
 
-### University of Costa Rica 
+### University of Costa Rica
 **Universidad de Costa Rica**
 
 San Jose, Costa Rica
