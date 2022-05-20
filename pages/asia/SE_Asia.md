@@ -121,7 +121,7 @@ The University of the Philippines is the national university of Philippines. The
 
 ## Brunei
 
-## University of Brunei Darussalam
+### University of Brunei Darussalam
 
 Gadong, Brunei
 
