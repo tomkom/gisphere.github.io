@@ -13,7 +13,7 @@ Units:
 
 - [Department of geography and Environmental Studies](https://carleton.ca/geography/)
   -The Department of Geography and Environmental Studies has three programs of study leading to an undergraduate degree in Geography, Geomatics and Environmental Studies. Students can obtain a B.A. or a B.Sc., Honours, or Combined Honours Degree. At the graduate level, M.A., M.Sc., and Ph.D. programs are offered.
-  
+
   Professors:
 
 - [Dipto Sarkar](https://carleton.ca/geography/people/assistant-professor-dipto-sarkar/): GIScience, Social Network Analysis, OpenStreetMap, and Biodiversity Conservation;
@@ -374,6 +374,19 @@ Professors:
 - [Xulin Guo](https://research-groups.usask.ca/guo/biography.php#AboutMe): remote sensing, ecology, physical geography, GIS;
 - [Ehab Diabt](https://artsandscience.usask.ca/profile/EDiab#/research): GIS, transportation, land use, spatial big data;
 - [Avi Akkerman](https://artsandscience.usask.ca/profile/AAkkerman#/research): spatial modeling, transportation, urban development.
+
+### Saskatchewan Polytechnic
+
+Prince Albert, Saskatchewan, Canada
+
+Units: [School of Natural Resources and Built Environment](https://saskpolytech.ca/about/school-of-natural-resources-and-built-environment/)
+
+Saskatchewan Polytechnic offers a [one-year certificate](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) program offered full time at Saskatchewan Polytechnic Prince Albert Campus.
+
+Professors:
+
+- Ryan Galbraith:  GIS, Python, ArcGIS Online, Remote Sensing
+- Teal Fisher:  GPS, Project Management, GIS
 
 ### Western University (UWO)
 
