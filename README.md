@@ -107,6 +107,8 @@ To date, we have summarized more than 350 GIS-related programs in more than 60 c
 
 **Middle East**
 
+[Israel](https://gisphere.github.io/pages/asia/israel.html)
+
 [Oman](https://gisphere.github.io/pages/asia/oman.html)
 
 [Saudi Arabia](https://gisphere.github.io/pages/asia/saudi.html)
