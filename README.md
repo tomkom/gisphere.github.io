@@ -52,6 +52,8 @@ To date, we have summarized more than 350 GIS-related programs in more than 60 c
 
 [Panama](https://gisphere.github.io/pages/north_america/panama.html)
 
+[Trinidad and Tobago](https://gisphere.github.io/pages/north_america/Trinidad.html)
+
 USA
 
 - [Eastern USA](https://gisphere.github.io/pages/north_america/usa-east.html)
