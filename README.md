@@ -42,21 +42,27 @@ To date, we have summarized more than 350 GIS-related programs in more than 60 c
 
 ## North America
 
-[Eastern USA](https://gisphere.github.io/pages/north_america/usa-east.html)
-
-[Midwest USA](https://gisphere.github.io/pages/north_america/usa-mid.html)
-
-[Southern USA](https://gisphere.github.io/pages/north_america/usa-south.html)
-
-[Western USA](https://gisphere.github.io/pages/north_america/usa-west.html)
-
-[Urban Planning Programs in the USA](https://gisphere.github.io/pages/north_america/usa-urban.html)
-
 [Canada](https://gisphere.github.io/pages/north_america/canada.html)
 
 [Costa Rica](https://gisphere.github.io/pages/north_america/costarica.html)
 
+[Jamaica](https://gisphere.github.io/pages/north_america/jamaica.html)
+
 [Mexico](https://gisphere.github.io/pages/north_america/mexico.html)
+
+[Panama](https://gisphere.github.io/pages/north_america/panama.html)
+
+USA
+
+- [Eastern USA](https://gisphere.github.io/pages/north_america/usa-east.html)
+
+- [Midwest USA](https://gisphere.github.io/pages/north_america/usa-mid.html)
+
+- [Southern USA](https://gisphere.github.io/pages/north_america/usa-south.html)
+
+- [Western USA](https://gisphere.github.io/pages/north_america/usa-west.html)
+
+- [Urban Planning Programs in the USA](https://gisphere.github.io/pages/north_america/usa-urban.html)
 
 ## Europe
 
@@ -87,7 +93,11 @@ To date, we have summarized more than 350 GIS-related programs in more than 60 c
 ## Asia-Pacific
 **East and Southeast Asia**
 
-[Hong Kong SAR, China](https://gisphere.github.io/pages/asia/HongKong.html)
+China
+
+- [Hong Kong SAR, China](https://gisphere.github.io/pages/asia/HongKong.html)
+
+- [Macau SAR, China](https://gisphere.github.io/pages/asia/macau.html)
 
 [Japan](https://gisphere.github.io/pages/asia/Japan.html)
 
