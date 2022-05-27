@@ -139,13 +139,21 @@ Minato Ku, Tokyo, Japan
 Unit: [GIS Lab](http://ecogis.sfc.keio.ac.jp/ecolog2/en/about-2/)
 
 The Keio University operates a GIS Lab which hosts master's and doctoral degree programs. People in this lab mainly use GIS techniques to study real-world environmental problems and evaluate related policies.
+The Department of Economics has instructors who do research in economic geography. Undergraduate students have the opportunities of joining their advisors' research labs (zemi) in their third year to learn specialized content related to economic geography. Masters and doctoral students should choose a supervisor.
 
 Professors:
 
+GIS:
 - **[Hiromichi Fukui(福井弘道)](http://ecogis.sfc.keio.ac.jp/gi_test/en/mem.html)**: Global Environment, Land Study, Urban Analysis, Spacial Information;
 - **[Tomoyuki Furutani (古谷知之)](http://ecogis.sfc.keio.ac.jp/gi_test/en/mem.html)**: Spatial Statistics, Spatial Econometrics, Tourism, Urban Transportation Planning;
 - **[Wanglin Yan (严网林)](http://ecogis.sfc.keio.ac.jp/ecolog2/)**: Science of Spacial Information, Regional Planning;
 - **[Masanao Takeyama (武山政直)](http://ecogis.sfc.keio.ac.jp/gi_test/en/mem.html)**: Remote Sensing, Ecology;
+
+Economics:
+
+- **[Takeyama Masanao(武山政直)](https://k-ris.keio.ac.jp/html/100000455_ja.html#item_koara_2)**: Economic Geography, Consumer Study, Urban Media Design;
+- **[Kawabata Mizuki(河端瑞貴)](https://sites.google.com/keio.jp/mizuki)**: Spatial Information Science, Economic Geography, Urban and Regional Policy.
+
 
 ### Tohoku University
 
