@@ -1,5 +1,26 @@
 ## Austria
 
+### University of Salzburg
+
+**University of Salzburg (Paris Lodron Universität Salzburg)**
+
+Austria, Salzburg
+
+Unit: [Department of Geoinformatics – Z_GIS](https://www.plus.ac.at/geoinformatik/department/?lang=en)
+
+The Department of Geoinformatics – Z_GIS at the University of Salzburg is a well established centre of competence in GIScience, active in research and education in collaboration with academic and industry partners from the geospatial sector. At the same time, our team of Geoinformatics specialists contribute their skills and expertise to study programmes and research at Salzburg University as well as a range of international partner organisations.
+
+The department is divided into the following divisions:
+- Applied Geoinformatics – Lead: Thomas Blaschke and Bernd Resch
+- Earth Observation – Lead: Stefan Lang and Barbara Hofer
+- Geocommunication and Transfer – Lead: Bernhard Zagel and Gudrun Wallentin
+
+Professors and researchers：
+
+- **[Thomas Blaschke](https://uni-salzburg.elsevierpure.com/en/persons/thomas-blaschke-4)**: GIScience: Theory and Concepts, Lectures in GIScience, Orientation and Introduction;
+- **[Josef Strobl](http://jstrobl.zgis.net)**: Geographical Information Science and Systems. Remote Sensing and Image Processing. Spatial Analysis. Digital Terrain Models. Spatial modelling of renewable energy potentials. Spatial Statistics and Geostatistics. Modelling and Simulation of dynamic processes. Open Systems architectures, interfaces, metadata and catalogues – SDI. Location based services. Internet-based distance education. Active learning in online environments and design of interactive learning materials. Learning with Geoinformation – from spatial awareness to thinking to citizenship;
+- **[Stefan Lang](https://www.plus.ac.at/geoinformatik/department/team/lang/?lang=en)**: Object-based image analysis (OBIA) | Copernicus | systems thinking | multi-scale and multi-dimensional spatial analysis | policy and decision support;
+
 ### University of Vienna
 
 **University of Vienna (Universität Wien, UWien)**
