@@ -277,6 +277,22 @@ The Geography and Environmental Sciences department offers GIS-related graduate 
 
 The Architecture and Planning College also has a MURP (Masters in Urban and Regional Planning) program, as well as a PhD in Geography, Planning, and Design.
 
+Professors:
+
+-   [Peter Anthamatten](https://clas.ucdenver.edu/ges/peter-anthamatten): cartography, GIS, environmental health, children
+-   [Christy Briles](https://clas.ucdenver.edu/ges/christy-e-briles): paleoecology, biogeography, climate change, palynology
+-   [Frederick Chambers](https://clas.ucdenver.edu/ges/frederick-b-chambers): physical geography, glaciology, climatology, environmental science
+-   [Anne Chin](https://clas.ucdenver.edu/ges/anne-chin): coupled human-landscape dynamics, fluvial processes, watershed management, interdisciplinary education, the "Anthropocene"
+-   [Kirsten Christensen](https://clas.ucdenver.edu/ges/kirsten-kris-christensen): urban geography, cultural geography, world history, urban planning
+-   [Benjamin Crawford](https://clas.ucdenver.edu/ges/benjamin-crawford): urban weather and climate, air quality, sensor networks
+-   [Lisa Kelley](https://clas.ucdenver.edu/ges/lisa-kelley): human-environment geography, agrarian and forest change, land use, political ecology, remote sensing
+-   [Katharine Kelsey](https://clas.ucdenver.edu/ges/katharine-kelsey): climate change, carbon cycling, biogeochemistry, human-environment interaction, Arctic
+-   [Rafael Moreno](https://clas.ucdenver.edu/ges/rafael-moreno): GIS Science and Technology, open source software for geospatial applications, natural resource management, sustainable development, forestry and land use planning in Latin America
+-   [Brian Page](https://clas.ucdenver.edu/ges/brian-page): economic geography, historical geography, urban landscape change, gentrification, globalization, development and environmental change, geospatial science and the humanities
+-   [Gregory Simon](https://clas.ucdenver.edu/ges/gregory-simon): human-environment interactions, environmental policy and governance, political ecology, critical development studies, science and technology studies
+-   [Amanda Weaver](https://clas.ucdenver.edu/ges/amanda-j-weaver): cartography, food geography, geography of South America, geospatial systems and analysis, GIS, urban geography
+-   [Bryan Wee](https://clas.ucdenver.edu/ges/bryan-wee): childhood and nature, environmental education, visual methodologies
+
 
 ### Colorado School of Mines
 
