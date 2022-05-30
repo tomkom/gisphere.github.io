@@ -88,7 +88,7 @@ USA
 
 [Italy](https://gisphere.github.io/pages/europe/Italy.html)
 
-[Luxembourg](https://gisphere.github.io/pages/europe/luxemburg.html)
+[Luxembourg](https://gisphere.github.io/pages/europe/luxembourg.html)
 
 [Netherlands](https://gisphere.github.io/pages/europe/netherlands.html)
 
