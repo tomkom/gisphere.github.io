@@ -40,7 +40,7 @@ To date, we have summarized more than 350 GIS-related programs in more than 60 c
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 
-## North America 
+## North America
 
 [Canada](https://gisphere.github.io/pages/north_america/canada.html)
 
@@ -68,32 +68,63 @@ USA
 
 ## Europe
 
-[Austria, Czech Republic and Hungary](https://gisphere.github.io/pages/europe/Austria_Czech_Hungary.html)
+**Central Europe**
 
-[Baltic States](https://gisphere.github.io/pages/europe/Baltic.html)
+[Austria](https://gisphere.github.io/pages/europe/austria.html)
+
+[Czech Republic](https://gisphere.github.io/pages/europe/czech.html)
+
+[Hungary](https://gisphere.github.io/pages/europe/hungary.html)
+
+**Western Europe**
+
+[Belgium](https://gisphere.github.io/pages/europe/belgium.html)
 
 [France](https://gisphere.github.io/pages/europe/france.html)
 
 [Germany](https://gisphere.github.io/pages/europe/Germany.html)
 
+[Ireland](https://gisphere.github.io/pages/europe/ireland.html)
+
 [Italy](https://gisphere.github.io/pages/europe/Italy.html)
 
-[Low Countries](https://gisphere.github.io/pages/europe/low_countries.html)
+[Luxembourg](https://gisphere.github.io/pages/europe/luxemburg.html)
 
-[Nordic Countries](https://gisphere.github.io/pages/europe/nordic.html)
+[Netherlands](https://gisphere.github.io/pages/europe/netherlands.html)
+
+[Portugal](https://gisphere.github.io/pages/europe/portugal.html)
+
+[Spain](https://gisphere.github.io/pages/europe/spain.html)
+
+[Switzerland](https://gisphere.github.io/pages/europe/Switzerland.html)
+
+[UK](https://gisphere.github.io/pages/europe/UK.html)
+
+**Nordic Countries**
+
+[Denmark](https://gisphere.github.io/pages/europe/denmark.html)
+
+[Finland](https://gisphere.github.io/pages/europe/finland.html)
+
+[Norway](https://gisphere.github.io/pages/europe/norway.html)
+
+[Sweden](https://gisphere.github.io/pages/europe/sweden.html)
+
+**Eastern Europe**
+
+[Estonia](https://gisphere.github.io/pages/europe/estonia.html)
+
+[Latvia](https://gisphere.github.io/pages/europe/latvia.html)
+
+[Lithuania](https://gisphere.github.io/pages/europe/lithuania.html)
 
 [Poland](https://gisphere.github.io/pages/europe/Poland.html)
 
 [Russia](https://gisphere.github.io/pages/europe/Russia.html)
 
-[Spain and Portugal](https://gisphere.github.io/pages/europe/Spain_Portugal.html)
 
-[Switzerland](https://gisphere.github.io/pages/europe/Switzerland.html)
-
-[UK and Ireland](https://gisphere.github.io/pages/europe/UK-Ireland.html)
-
-## Asia-Pacific
-**East and Southeast Asia**
+## Asia
+**East Asia**
 
 China
 
@@ -103,9 +134,25 @@ China
 
 [Japan](https://gisphere.github.io/pages/asia/Japan.html)
 
+[Mongolia](https://gisphere.github.io/pages/asia/mongolia.html)
+
 [South Korea](https://gisphere.github.io/pages/asia/Korea.html)
 
-[Southeast Asia](https://gisphere.github.io/pages/asia/SE_Asia.html)
+**Southeast Asia**
+
+[Brunei](https://gisphere.github.io/pages/asia/brunei.html)
+
+[Indonesia](https://gisphere.github.io/pages/asia/indonesia.html)
+
+[Malaysia](https://gisphere.github.io/pages/asia/malaysia.html)
+
+[Philippines](https://gisphere.github.io/pages/asia/philippines.html)
+
+[Singapore](https://gisphere.github.io/pages/asia/singapore.html)
+
+[Thailand](https://gisphere.github.io/pages/asia/thailand.html)
+
+[Vietnam](https://gisphere.github.io/pages/asia/vietnam.html)
 
 **South Asia**
 
@@ -133,27 +180,33 @@ China
 
 [Azerbaijan](https://gisphere.github.io/pages/asia/Azerbaijan.html)
 
-[Central Asia](https://gisphere.github.io/pages/asia/central_asia.html)
+[Kyrgyzstan](https://gisphere.github.io/pages/asia/kyrgyzstan.html)
 
-[Mongolia](https://gisphere.github.io/pages/asia/mongolia.html)
+[Uzbekistan](https://gisphere.github.io/pages/asia/uzbekistan.html)
 
-**Oceania**
+## Oceania
 
-[Australia](https://gisphere.github.io/pages/asia/Australia.html)
+[Australia](https://gisphere.github.io/pages/oceania/Australia.html)
 
-[Fiji](https://gisphere.github.io/pages/asia/fiji.html)
+[Fiji](https://gisphere.github.io/pages/oceania/fiji.html)
 
-[New Zealand](https://gisphere.github.io/pages/asia/NewZealand.html)
+[New Zealand](https://gisphere.github.io/pages/oceania/NewZealand.html)
 
 ## South America
 
-[Argentina and Chile](https://gisphere.github.io/pages/south_america/chile_argentina.html)
+[Argentina](https://gisphere.github.io/pages/south_america/argentina.html)
 
 [Brazil](https://gisphere.github.io/pages/south_america/brazil.html)
 
+[Chile](https://gisphere.github.io/pages/south_america/chile.html)
+
 [Colombia](https://gisphere.github.io/pages/south_america/colombia.html)
 
-[Peru, Paraguay and Uruguay](https://gisphere.github.io/pages/south_america/peru_paraguay_uruguay.html)
+[Paraguay](https://gisphere.github.io/pages/south_america/paraguay.html)
+
+[Peru](https://gisphere.github.io/pages/south_america/peru.html)
+
+[Uruguay](https://gisphere.github.io/pages/south_america/uruguay.html)
 
 
 ## Africa
