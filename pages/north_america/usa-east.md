@@ -417,8 +417,23 @@ Professors:
 
 ### University of New Hampshire
 
-Durham, New Hampshire, USDA
+Durham, New Hampshire, USA
 
 Unit: [Quantitative Marine Ecology Lab](https://quantmarineecolab.github.io/)
 
 The Quantitative Marine Ecology Laboratory at the University of New Hampshire is a team of scientists who combine field observations with mathematical and statistical tools to study issues related to marine ecology, including population ecology, social-ecological systems, species monitoring, fisheries, and sustainable seafood-related issues. A common focus of their topics is environmental variability's impacts, especially rare events like heat waves or global pandemics.
+
+
+### Rowan University
+
+Glassboro, New Jersey, USA
+
+Unit: [Department of Geography Planning & Sustainability](http://www.rowan.edu/geography)
+
+The Department of Geography Planning & Sustainability (GPS) is a dynamic department composed of our faculty, staff, and students. Our faculty is an energetic group that values both student learning and innovative scholarly and applied research. The Department currently has about 175 majors spread among our degree programs in Geography, Environmental & Sustainability Studies, Geographic Information Science, and Community and Environmental Planning, and the 4+1 programs in Environmental & Sustainability Studies with the Master's in Business Administration and Community and Environmental Planning with the Master's of Science in Urban and Regional Planning.
+
+This department offers:
+
+-   A Bachelor of Science in Geographic Information Science, information available [here](https://earth.rowan.edu/departments/geography/academics/gis.html).
+-   A Post-Baccalaureate Certificate in Cartography and GIS, information available [here](https://global.rowan.edu/programs/cartography-and-gis-post-baccalaureate-certificate.html). 
+-   A Masters of Science in Urban and Regional Planning, with specialization in GIS.  Information is available [here](https://global.rowan.edu/programs/ms-in-urban-and-regional-planning.html). 
