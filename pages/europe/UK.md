@@ -87,6 +87,10 @@ Unit: [SEED](https://www.seed.manchester.ac.uk/) 
 
 The Department of Geography at the University of Manchester is one of the top 10 geography departments in the UK (QS World University Rankings 2021) and the GIS programme at Masters level is taught on a one-year basis without a research project requirement. It focuses on theoretical knowledge and software skills in GIS and remote sensing, spatial data analysis in a variety of specialist areas, and a wide range of applications in GIS projects. [Courses](https://www.manchester.ac.uk/study/masters/courses/list/07053/msc-geographical-information-science/all-content/#course-profile)
 
+The [school of social sciences](https://www.socialsciences.manchester.ac.uk/) also operates two degree programs:
+- [MSc Data Science (Environmental Analytics)](https://www.manchester.ac.uk/study/masters/courses/list/18096/msc-data-science-environmental-analytics/)
+- [MSc Data Science (Applied Urban Analytics) ](https://www.manchester.ac.uk/study/masters/courses/list/11425/msc-data-science-applied-urban-analytics/)
+
 Professors: 
 - [Sarah Lindley](https://www.research.manchester.ac.uk/portal/sarah.lindley.html): urban green space; urban environmental characteristics in tropical cities; climate change and biodiversity;
 - [Angela Harris](https://www.research.manchester.ac.uk/portal/angela.harris.html): Remote Sensing; Ecology; Peatlands; Vegetation; 
