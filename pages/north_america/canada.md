@@ -74,9 +74,33 @@ Units:
 
 Professors:
 
-- [Luke Bergmann](https://www.geog.ubc.ca/persons/luke-bergmann/): digital geohumanity, geospatial big data;
-- [Brian Klinkenberg](https://www.geog.ubc.ca/persons/brian-klinkenberg/): spatial analysis, GIS for biogeography, public health, visualization;
-- [Sally Hermansen](http://blogs.ubc.ca/shermansen/): cartography, visualizations, remote sensing.
+- [Brett Eaton](https://blogs.ubc.ca/beaton/): Digital Geographies, Geospatial Analysis, GIS, Water, Ice, Landscapes
+- [Brian Klinkenberg](https://ibis.geog.ubc.ca/~brian/): Biodiversity, Ecology, Politics Digital Geographies, Geospatial Analysis, GIS
+- [Dan Hiebert](https://blogs.ubc.ca/dhiebert/): Cities, Economies, Transnational Flows, Digital Geographies, Geospatial Analysis, GIS
+- [Dan Moore](https://ibis.geog.ubc.ca/~rdmoore/): Water, Ice, Landscapes
+- [Derek Gregory](https://geographicalimaginations.com/): Knowledge, Ideas, Practices Power, Colonialism, Justice War, Security, States
+- [Elvin Wyly](https://ibis.geog.ubc.ca/~ewyly/): Cities, Economies, Transnational Flows Digital Geographies, Geospatial Analysis, GIS, Gender, Race, Class Knowledge, Ideas, Practices.
+- [Geraldine Pratt](https://blogs.ubc.ca/gpratt/): Cities, Economies, Transnational Flows Gender, Race, Class Knowledge, Ideas, Practices Power, Colonialism, Justice
+- [Ian McKendry](https://blogs.ubc.ca/ianmckendry/): Cities, Economies, Transnational Flows, Climate: Science, Change, Action
+- [Jamie Peck](https://blogs.ubc.ca/peck/): Cities, Economies, Transnational Flows Knowledge, Ideas, Practices
+- [Jennifer Williams](https://williamslabubc.weebly.com/): Biodiversity, Ecology, Politics, Climate: Science, Change, Action
+- [Jessica Dempsey](https://blogs.ubc.ca/jdempsey/): Biodiversity, Ecology, Politics, Cities, Economies, Transnational Flows, Gender, Race, Class, Power, Colonialism, Justice
+- [Jessica Wang](https://history.ubc.ca/profile/jessica-wang/): Biodiversity, Ecology, Politics, Knowledge, Ideas, Practices, War, Security, States
+- [Jim Glassman](https://blogs.ubc.ca/glassman/): Cities, Economies, Transnational Flows, Gender, Race, Class, Power, Colonialism, Justice, War, Security, States
+- [Juanita Sundberg](https://juanitasundberg.wordpress.com/about/): Biodiversity, Ecology, Politics, Gender, Race, Class Knowledge, Ideas, Practices, Power, Colonialism, Justice
+- [Karen Bakker](https://karenbakker.org/): Biodiversity, Ecology, Politics, Cities, Economies, Transnational Flows, Climate: Science, Change, Action, Digital Geographies, Geospatial Analysis, GIS, Knowledge, Ideas, Practices, Power, Colonialism, Justice, Water, Ice, Landscapes
+- [Luke Bergmann](http://faculty.washington.edu/lrb9/): Biodiversity, Ecology, Politics Cities, Economies, Transnational flows Digital Geographies, Geospatial Analysis, GIS
+- [Marwan Hassan](https://blogs.ubc.ca/mhassan/): Biodiversity, Ecology, Politics, Digital Geographies, Geospatial Analysis, GIS, Water, Ice, Landscapes
+- [Matthew Evenden](https://blogs.ubc.ca/waterhistory/): Biodiversity, Ecology, Politics, Power, Colonialism, Justice, War, Security, States, Water, Ice, Landscapes
+- [Merje Kuus](https://blogs.ubc.ca/kuus/): Cities, Economies, Transnational Flows, Climate: Science, Change, Action Knowledge, Ideas, Practices War, Security, States
+- [Michele Koppes](https://blogs.ubc.ca/koppes/): Climate: Science, Change, Action, Knowledge, Ideas, Practices, Water, Ice, Landscapes
+- [Naomi Klein](https://naomiklein.org/): Climate: Science, Change, Action, Gender, Race, Class, Power, Colonialism, Justice
+- [Naomi Schwartz](https://blogs.ubc.ca/schwartzlab/): Biodiversity, Ecology, Politics, Climate: Science, Change, Action, Digital Geographies, Geospatial Analysis, GIS, Water, Ice, Landscapes
+- [Philippe Le Billon](https://blogs.ubc.ca/lebillon/): Biodiversity, Ecology, Politics, Climate: Science, Change, Action, Knowledge, Ideas, Practices, Power, Colonialism, Justice, War, Security, States
+- [Sally Hermansen](http://blogs.ubc.ca/shermansen/): Digital Geographies, Geospatial Analysis, GIS
+- [Sara Knox](https://blogs.ubc.ca/saraknox/): Climate: Science, Change, Action, Water, Ice, Landscapes
+- [Simon Donner](https://simondonner.com/): Climate: Science, Change, Action
+- [Trevor Barnes](https://blogs.ubc.ca/trevorbarnes/): Cities, Economies, Transnational Flows, Digital Geographies, Geospatial Analysis, GIS, Knowledge, Ideas, Practices War, Security, States
 
 ### University of Calgary (U-Calgary)
 
@@ -96,16 +120,16 @@ Units:
     - [PhD, MSc, MA](https://www.ucalgary.ca/pubs/calendar/grad/current/geography-geog.html)
   - [Geographic Information Systems](https://grad.ucalgary.ca/future-students/explore-programs/geography-mgis-course)
     - MGIS
-- [测绘工程系](https://schulich.ucalgary.ca/geomatics)
+- [Department of Geomatics Engineering](https://schulich.ucalgary.ca/geomatics)
   - Geomatics Engineering
     - [PhD, MSc, MEng](https://www.ucalgary.ca/pubs/calendar/grad/current/engineering-geomatics-engo.html)
 - [地球科学系](https://science.ucalgary.ca/geoscience)
   - Geoscience
     - PhD, MSc
-- [建筑，规划与景观学院](https://sapl.ucalgary.ca/)
+- [School of Architecture, Planning and Landscape](https://sapl.ucalgary.ca/)
   - [Planning](https://grad.ucalgary.ca/future-students/explore-programs/planning-mplan-course)
     - MPlan
-- [环境工程研究与教育中心](https://schulich.ucalgary.ca/ceere)
+- [CEERE](https://schulich.ucalgary.ca/ceere)
   - [Landscape Architecture](https://grad.ucalgary.ca/future-students/explore-programs/landscape-architecture-mla-course)
     - MLA
   - [Environmental Design](https://grad.ucalgary.ca/future-students/explore-programs/environmental-design-medes)
@@ -207,20 +231,46 @@ Professors:
 
 St. George's Campus:
 
-- [Jing Ming Chen](https://geography.utoronto.ca/profiles/jing-chen/): GIS, remote sensing, hydrological modeling, biogeochemistry;
-- [Michael Widener](https://geography.utoronto.ca/profiles/michael-widener/): agent-based modeling, spatial optimization, transportation, health geography, web mapping.
+- [Christian Abizaid](https://parlap.geog.mcgill.ca/): Economic Geography Environment & Climate Rural Social & Political Geography
+- [Danny Harvey](http://faculty.geog.utoronto.ca/Harvey/Harvey/): Environment & Climate
+- [Deborah Cowen](https://debcowen.wordpress.com/): Policy & Planning Social & Political Geography Urban
+- [Emily Gilbert](http://individual.utoronto.ca/emilygilbert/): Culture & History Social & Political Geography
+- [Harald Bathelt](http://www.harald-bathelt.com/): Economic Geography Policy & Planning Urban
+- [Jason Hackworth](http://individual.utoronto.ca/hackworth/index.html): Policy & Planning Urban
+- [Jing Ming Chen](http://faculty.geog.utoronto.ca/Chen/Chen's%20homepage/home.htm): GIS, remote sensing, hydrological modeling, biogeochemistry;
+- [Joseph Desloges](https://desloges.es.utoronto.ca/): Environment & Climate Physical Geography
+- [Karen Chapple](http://karenchapple.com/): Economic Geography GIS, Spatial Analysis & Modelling Policy & Planning Urban
+- [Katharine Rankin](https://katharinenrankin.wordpress.com/): Culture & History Economic Geography Policy & Planning Rural Social & Political Geography Urban
+- [Matti Siemiatycki](https://infrastructureinstitute.ca/): Urban
+- [Michael Widener](http://www.thinkingspatial.com/): agent-based modeling, spatial optimization, transportation, health geography, web mapping.
+- [Sarah Finkelstein](https://utpaleolab.wordpress.com/): Environment & Climate Physical Geography
+- [Tim Ross](https://hollandbloorview.ca/people/timothy-ross): Policy & Planning Urban
 
 Mississauga Campus:
 
-- [Yuhong He](https://geography.utoronto.ca/profiles/yuhong-he/): remote sensing, climate modeling;
-- [Ron Buliung](https://geography.utoronto.ca/profiles/ron-buliung/): GIScience, public health, transportation;
-- [Tenley Conway](https://geography.utoronto.ca/profiles/tenley-conway/): urban informatics, land use modeling, urban planning;
-- [Jue Wang](https://geography.utoronto.ca/profiles/jue-wang/): GIS, spatial analysis, health geography;
-- [Alan Walks](https://geography.utoronto.ca/profiles/alan-walks/): urban informatics, neighborhood.
+- [Alan Walks](https://geog.utm.utoronto.ca/walks/): urban informatics, neighborhood.
+- [Andrea Olive](https://sites.utm.utoronto.ca/politicalolive/): Environment & Climate Rural
+- [Igor Lehnherr](https://igorlehnherr.weebly.com/): Environment & Climate Physical Geography
+- [Jue Wang](http://juewang.space/): GIS, spatial analysis, health geography;
+- [Laura Brown](https://sites.utm.utoronto.ca/brown/): Physical Geography
+- [Laurel Besco](https://sites.utm.utoronto.ca/lbesco/): Environment & Climate
+- [Matthew Adams](https://sites.utm.utoronto.ca/adams/node): Environment & Climate GIS, Spatial Analysis & Modelling Physical Geography Urban
+- [Ron Buliung](https://www.utm.utoronto.ca/geography/faculty-staff/buliung-ron): GIScience, public health, transportation;
+- [Tara Vinodrai](https://munkschool.utoronto.ca/ipl/profile/vinodrai-tara/): Economic Geography Policy & Planning Urban
+- [Tenley Conway](https://sites.utm.utoronto.ca/conway/): urban informatics, land use modeling, urban planning;
+- [Trevor Porter](https://utmpaleolab.wordpress.com/): Physical Geography
+- [Yuhong He](https://sites.utm.utoronto.ca/yuhong/): remote sensing, climate modeling;
 
 Scarborough Campus:
 
-- [Steven Farber](https://geography.utoronto.ca/profiles/steven-farber/): spatial analysis, transportation.
+- [Carl Mitchell](https://www.utsc.utoronto.ca/physsci/carl-mitchell): Physical Geography
+- [Christopher Higgins](https://higgicd.github.io/): Economic Geography GIS, Spatial Analysis & Modelling Policy & Planning Urban
+- [Mark Hunter](https://www.markwhunter.net/): Culture & History Social & Political Geography Urban
+- [Marney Isaac](https://www.utsc.utoronto.ca/labs/misaac/): Environment & Climate Physical Geography Social & Political Geography
+- [Michael Ekers](https://www.greatlandgrab.com/): Economic Geography Environment & Climate Social & Political Geography
+- [Nicole Klenk](https://sciinsoc.wordpress.com/): Environment & Climate Policy & Planning Rural Social & Political Geography Urban
+- [Steven Farber](https://stevenfarber.wordpress.com/): spatial analysis, transportation.
+- [Zachary Hyde](https://zacharyhyde.net/): Culture & History Economic Geography Rural Urban
 
 
 
@@ -634,13 +684,13 @@ Units:
   - Planning Studies
     - [MPS](https://www.dal.ca/faculty/architecture-planning/school-of-planning/programs/planning_studies.html)
 
-### Ryerson University (RU)
+### Toronto Metropolitan Universtiy（TMU）
 
 Toronto, Ontario, Canada
 
-Ryerson University was promoted to university status in 1993 when it began awarding master's and doctoral degrees. Located in the heart of Toronto, Canada's largest city, near the University of Toronto's St. George's campus, Ryerson is a typical urban campus where students can connect with leaders in culture, business, health care or government and have access to a wide range of employment opportunities.
+Formerly known as the **Ryerson University** (RU), the Toronto Metropolitan Universtiy（TMU）was promoted to university status in 1993 when it began awarding master's and doctoral degrees. Located in the heart of Toronto, Canada's largest city, near the University of Toronto's St. George's campus, TMU is a typical urban campus where students can connect with leaders in culture, business, health care or government and have access to a wide range of employment opportunities.
 
-Ryerson offers the Master of Spatial Analysis degree program in the Department of Geography and Environmental Studies. The Master of Spatial Analysis program is one of Ryerson's two founding graduate programs. In 1993, after Ryerson was granted full university status by the Province of Ontario, it started planning a joint Master of Spatial Analysis program with the University of Toronto and became the sole host of this degree program since 2008. In addition, Ryerson offers graduate programs in Environmental Applied Science, Management, and Civil Engineering, with graduate degrees in PhD, MASc and MEng.
+TMU offers the Master of Spatial Analysis degree program in the Department of Geography and Environmental Studies. The Master of Spatial Analysis program is one of Ryerson's two founding graduate programs. In 1993, after TMU was granted full university status by the Province of Ontario, it started planning a joint Master of Spatial Analysis program with the University of Toronto and became the sole host of this degree program since 2008. In addition, TMU offers graduate programs in Environmental Applied Science, Management, and Civil Engineering, with graduate degrees in PhD, MASc and MEng.
 
 
 Units:
@@ -654,6 +704,19 @@ Units:
 - Civil Engineering and Architecture
   - [Civil Engineering](https://www.ryerson.ca/civil/graduate/)
     - PhD, MASc, MEng
+
+Professors:
+
+- [Anne Spice](https://www.annespice.com/): Indigenous studies, settler colonialism, environmental justice, climate change, grassroots activism, Indigenous sovereignty, resource extraction and infrastructure, food studies, queer Indigenous feminism, decolonizing methodologies
+- [Christopher Wellen](http://landandwater.geography.ryerson.ca/): Mathematical Modelling, Hydrology, Water Quality, Agriculture, Urban Areas, Bayesian Statistics.
+- [Claire Oswald](https://watershed.geography.ryerson.ca/): Geospatial analysis of watershed hydrology and biogeochemistry, pollutant fate and transport, water quality, landscape disturbance, urban ecosystems.
+- [Claus Rinner](https://people.ryerson.ca/crinner/): Geographic visualization, spatial decision support systems, participatory GIS, Web mapping, location-based services, geodata infrastructures, health and urban applications of GIS.
+- [David Atkinson](http://www.geography.ryerson.ca/polarseal/index.html): Arctic biophysical systems, remote sensing, carbon flux, GIS and environmental analysis.
+- [Eric Vaz](http://www.geography.ryerson.ca/evaz/): Spatial Analysis, Geographic Information Science, Complex Systems, Neogeography, Urban and Regional Geography, Spatial Decision Support Systems, Economic Geography, Business GIS, Information Management
+- [Lu Wang](http://www.geography.ryerson.ca/luwang/): GIS and consumption analysis, GIS and health, spatial accessibility modeling and visualization, geostatistics, immigration and settlement, retail internationalization.
+- [Richard Shaker](https://www.rrshaker.com/): Environmental management; landscape dynamics & global change; spatial ecology; sustainability science; spatial analysis & quantitative methods
+- [Tor Oiamo](https://www.exposcen.com/): Exposure assessment; environmental modelling; health risk assessment; GIS and spatial statistics; health and medical geography
+- [Wayne Forsythe](http://www.geography.ryerson.ca/wayne/forsythe.htm): Urban Change Detection, Geospatial Analysis of Sediment Contamination, Remote Sensing, GIS.
 
 ### Concordia University (Concordia)
 
@@ -689,6 +752,27 @@ Units:
 - [Faculty of Engineering](https://engineering.uottawa.ca/)
   - PhD, MEng, MASc in Environmental Engineering
 
+
+- [Department of Geography, Environment and Geomatics](https://arts.uottawa.ca/geography/)
+  - Geography
+    - [MA](https://catalogue.uottawa.ca/en/graduate/master-arts-geography/), [MSc](https://catalogue.uottawa.ca/en/graduate/master-science-geography/#text), [PhD](https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-geography/)
+
+  - Geography and Specialization Science, Society and Policy
+    - [MA](https://catalogue.uottawa.ca/en/graduate/master-arts-geography-specialization-science-society-policy/#text), [MSc](https://catalogue.uottawa.ca/en/graduate/master-science-earth-sciences-specialization-science-society-policy/)
+- [Department of Earth and Environmental Sciences](https://science.uottawa.ca/earth/)
+  - Earth Sciences
+    - [MSc](https://catalogue.uottawa.ca/en/graduate/master-science-earth-sciences/), [PhD](https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-earth-sciences/)
+  - Earth Sciences and Specialization Science, Society and Policy
+    - [MSc](https://catalogue.uottawa.ca/en/graduate/master-science-earth-sciences-specialization-science-society-policy/)
+  - Earth Sciences and Specialization Chemical and Environmental Toxicology
+    - [MSc](https://catalogue.uottawa.ca/en/graduate/master-science-earth-sciences-specialization-chemical-environmental-toxicology/), [PhD](https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-earth-sciences-specialization-chemical-environmental-toxicology/)
+- Institute of Environment
+  - Environmental Sustainability
+    - [MSc](https://catalogue.uottawa.ca/en/graduate/master-science-environmental-sustainability/), [PhD](https://catalogue.uottawa.ca/en/graduate/doctorate-environmental-sustainability/)
+- [Faculty of Engineering](https://engineering.uottawa.ca/)
+  - Environmental Engineering
+    - [MSc](https://catalogue.uottawa.ca/en/graduate/master-applied-science-environmental-engineering/#text), [MEng](https://catalogue.uottawa.ca/en/graduate/master-engineering-environmental-engineering/), [PhD](https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-environmental-engineering/)
+
 ### Memorial University of Newfoundland (MUN)
 
 St. John's, Newfoundland and Labrador, Canada
@@ -696,16 +780,25 @@ St. John's, Newfoundland and Labrador, Canada
 The Memorial University of Newfoundland is a public university in the province of Newfoundland and Labrador.
 
 Units:
-- [Department of Geography](https://www.mun.ca/geog/programs/graduate/)
+- [Department of Geography](https://www.mun.ca/become/graduate/programs-and-courses/geography/)
   - MA, MSc, PhD
 - [Fisheries and Marine Institute](https://www.mi.mun.ca/programsandcourses/programs/marinestudiesmarinespatialplanningandmanagement/)
   - MMS (Course, major report, course with internship or research project options)
 - [Ocean Mapping](https://www.mi.mun.ca/programsandcourses/programs/masterofappliedoceantechnologyoceanmapping/)
-  - MAOT
-- [Environmental Science](https://www.grenfell.mun.ca/academics-and-research/Pages/school-of-science-and-the-environment.aspx)
+  - [Master of Applied Ocean Technology (Ocean Mapping)](https://www.mun.ca/become/graduate/programs-and-courses/applied-ocean-technology/)
+- [Environmental Science](https://www.mun.ca/become/graduate/programs-and-courses/environmental-science/)
   - MSc, MEnvSci, PhD
 - [Physics and Physical Oceanography](https://www.mun.ca/physics/)
   - MSc, PhD
+- [Boreal Ecosystems and Agricultural Sciences](https://www.mun.ca/become/graduate/programs-and-courses/boreal-ecosystems-and-agricultural-sciences/)
+  - MSc, PhD
+- [Earth Sciences](https://www.mun.ca/become/graduate/programs-and-courses/earth-sciences/)
+  - MSc, PhD
+
+Professors:
+
+- [Max Liboiron](https://maxliboiron.com/): Globalization, economy & resources, sustainable communities & regions, health & well-being
+- [Roza Tchoukaleyska](https://rozatchoukaleyska.wordpress.com/): Public space planning, cultures of consumption, social sustainability
 
 ### Carleton University									
 
