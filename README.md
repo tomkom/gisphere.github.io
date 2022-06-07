@@ -114,6 +114,8 @@ USA
 
 [Estonia](https://gisphere.github.io/pages/europe/estonia.html)
 
+[Greece](https://gisphere.github.io/pages/europe/greece.html)
+
 [Latvia](https://gisphere.github.io/pages/europe/latvia.html)
 
 [Lithuania](https://gisphere.github.io/pages/europe/lithuania.html)
@@ -170,9 +172,15 @@ China
 
 [Israel](https://gisphere.github.io/pages/asia/israel.html)
 
+[Jordan](https://gisphere.github.io/pages/asia/jordan.html)
+
+[Lebanon](https://gisphere.github.io/pages/asia/lebanon.html)
+
 [Oman](https://gisphere.github.io/pages/asia/oman.html)
 
 [Saudi Arabia](https://gisphere.github.io/pages/asia/saudi.html)
+
+[Syria](https://gisphere.github.io/pages/asia/syria.html)
 
 [Turkey](https://gisphere.github.io/pages/asia/turkey.html)
 
@@ -215,6 +223,8 @@ China
 
 [Botswana](https://gisphere.github.io/pages/africa/Botswana.html)
 
+[Egypt](https://gisphere.github.io/pages/africa/egypt.html)
+
 [Ghana](https://gisphere.github.io/pages/africa/ghana.html)
 
 [Kenya](https://gisphere.github.io/pages/africa/kenya.html)
@@ -226,5 +236,7 @@ China
 [South Africa](https://gisphere.github.io/pages/africa/south_africa.html)
 
 [Sudan](https://gisphere.github.io/pages/africa/sudan.html)
+
+[Tunisia](https://gisphere.github.io/pages/africa/tunisia.html)
 
 [Benin](https://gisphere.github.io/pages/africa/benin.html) - coming soon
