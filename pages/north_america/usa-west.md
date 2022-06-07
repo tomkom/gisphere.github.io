@@ -188,13 +188,13 @@ Professors:
 - **[John P. Wilson](https://spatial.usc.edu/?team=john-p-wilson)**: GIS, spatial analysis, environmental modeling, environment and human health, geodesign education;
 - **[Kenan Li](https://spatial.usc.edu/team-view/kenan-li/)**: spatial computation and modeling of community resilience/sustainability, data science and statistics in environmental health, geosimulation of human and environmental systems.
 
-### San Diego State Univeristy
+### San Diego State University
 
 San Diego, California, USA
 
 Unit: [Department of Geography](https://geography.sdsu.edu/)
 
-The graduate program of the geography department at SDSU offers MA, MS and PhD options. The MS degree program includes the focus of GIS, and the main research scope is applied GIS, cartography, data science, spatial analysis, and modeling. The PhD progam is a joint program between SDSU and UC Santa Barbara. It requires a strong background in geography-related fields for entrance.
+The SDSU is a member of the 23-campus California State University system. The graduate program of the geography department at SDSU offers MA, MS and PhD options. The MS degree program includes the focus of GIS, and the main research scope is applied GIS, cartography, data science, spatial analysis, and modeling. The PhD progam is a joint program between SDSU and UC Santa Barbara. It requires a strong background in geography-related fields for entrance.
 
 Professors:  
 

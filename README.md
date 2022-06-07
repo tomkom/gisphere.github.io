@@ -76,6 +76,10 @@ USA
 
 [Hungary](https://gisphere.github.io/pages/europe/hungary.html)
 
+[Slovakia](https://gisphere.github.io/pages/europe/Slovakia.html)
+
+[Slovenia](https://gisphere.github.io/pages/europe/Slovenia.html)
+
 **Western Europe**
 
 [Belgium](https://gisphere.github.io/pages/europe/belgium.html)
@@ -106,11 +110,17 @@ USA
 
 [Finland](https://gisphere.github.io/pages/europe/finland.html)
 
+[Iceland(https://gisphere.github.io/pages/europe/iceland.html)
+
 [Norway](https://gisphere.github.io/pages/europe/norway.html)
 
 [Sweden](https://gisphere.github.io/pages/europe/sweden.html)
 
 **Eastern Europe**
+
+[Albania](https://gisphere.github.io/pages/europe/albania.html)
+
+[Bulgaria](https://gisphere.github.io/pages/europe/Bulgaria.html)
 
 [Estonia](https://gisphere.github.io/pages/europe/estonia.html)
 
@@ -120,7 +130,11 @@ USA
 
 [Lithuania](https://gisphere.github.io/pages/europe/lithuania.html)
 
+[North Macedonia](https://gisphere.github.io/pages/europe/Macedonia.html)
+
 [Poland](https://gisphere.github.io/pages/europe/Poland.html)
+
+[Romania](https://gisphere.github.io/pages/europe/romania.html)
 
 [Russia](https://gisphere.github.io/pages/europe/Russia.html)
 
@@ -167,6 +181,8 @@ China
 [Sri Lanka](https://gisphere.github.io/pages/asia/srilanka.html)
 
 **Middle East**
+
+[Cyprus](https://gisphere.github.io/pages/asia/cyprus.html)
 
 [Iran](https://gisphere.github.io/pages/asia/iran.html)
 
