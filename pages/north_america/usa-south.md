@@ -260,6 +260,15 @@ Professors:
 - **[Liem Tran](https://geography.utk.edu/about-us/faculty/?page_id=420)**: GIS for environmental modeling, system dynamics modeling, fuzzy sets and systems, geospatial analysis;
 - **[Hannah Herrero](https://geography.utk.edu/about-us/faculty/dr-hannah-herrero/)**: remote sensing, human-environment interactions, conservation, savanna science.
 
+
+### Tennessee State University
+
+Nashville, Tennessee, USA
+
+Unit: [Dept. of Agricultural and Environmental Sciences](https://www.tnstate.edu/agriculturalprograms/index.aspx)
+
+The TSU offers a [Professional Science Master’s (PSM)](https://www.tnstate.edu/agriculturalprograms/degrees/psm_in_applied_gis.aspx) program in Applied GIS. It has online and in-person options. TSU also offers a [postgraduate certificate in GIS](https://www.tnstate.edu/agriculturalprograms/degrees/applied_gis.aspx).
+
 ### Louisiana State University
 
 Baton Rouge, Louisiana, USA
@@ -298,3 +307,30 @@ Huntsville, Texas, USA
 Unit: [Department of Environmental and Geoscience](https://www.shsu.edu/academics/environmental-and-geosciences/index.html)
 
 Sam Houston State University (SHSU) is located in Huntsville, a small town in western Texas. It is a public research university and a member of the Texas State University system. Its predecessor was Sam Houston Normal Institute established in 1879, and it was also one of the earliest normal universities in the western United States. Its name comes from the famous general in Texas history, General Sam Houston, who was buried in the town where the school is located. The university offers the Master of Science in Geographic Information Systems degree program, which is a course-based master's degree with entrance times in both spring and fall semesters. The content of the lectures includes advanced courses and lab practices in GIS, remote sensing, web mapping, modeling, programming, and spatial analysis. This degree program aims to improve students' skills in geographic information science and technology. In addition, because the school is close to the oil-producing area of Texas, the program also focuses on the instruction related to the application of GIS in the oil and gas industry.
+
+
+### Stephen F. Austin State University
+
+Houston, Texas, USA
+
+Unit: [College of Forestry and Agriculture](https://www.sfasu.edu/academics/colleges/forestry-agriculture/academics/geospatial-science)
+
+The Austin State University has a [Master of Science in Forestry with geospatial science concentration](https://www.sfasu.edu/academics/colleges/forestry-agriculture/academics/geospatial-science/academics/graduate) program, which is a thesis-based program.
+
+Professors:
+
+- [Sara Phillips](https://orion.sfasu.edu/directory/details.aspx?id=43200): forestry and geospatial science
+- [Daniel R. Unger](https://orion.sfasu.edu/directory/details.aspx?id=40481): spatial analysis, remote sensing, GPS, quantitative research
+- [Brandy Bishop](https://orion.sfasu.edu/directory/details.aspx?id=43039): forestry and geospatial science
+- [Yanli Zhang](https://orion.sfasu.edu/directory/details.aspx?id=40482): GIS, remote sensing, environmental modeling, geospatial analysis and application
+- [David Kulhavy](https://orion.sfasu.edu/directory/details.aspx?id=40479): forest entomology and pest management
+- [I-Kuai Hung](https://orion.sfasu.edu/directory/details.aspx?id=40478): GIS, remote sensing
+
+
+### Texas Christian University
+
+Dallas/Fort Worth, Texas, USA
+
+Unit: [Department of Geology](https://cse.tcu.edu/geology/index.php)
+
+The geology department at TCU has [Master of Science](https://www.tcu.edu/academics/programs/geology.php) degree programs with one of the concentration options being the Environmental GIS. This department also offers a [Certificate in GIS](http://tcu.smartcatalogiq.com/en/current/Undergraduate-Catalog/College-of-Science-and-Engineering/Geology) graduate training program.

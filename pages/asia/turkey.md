@@ -15,3 +15,12 @@ Ankara, Turkey
 Unit: [Geodetic and Geographical Information Technologies Programs](http://ggit.metu.edu.tr/programs)
 
 The METU's Civil Engineering Department operates a 2-year master's program and a 4-year PhD program in geodetic technology and geoinformation. The aim of these programs is to pursue research in space geodesy (SG), geographic information systems (GIS) and remote sensing (RS). The program is designed to meet the growing demands for skilled manpower at the graduate level particularly in areas of contemporary space technologies and their applications in various fields, GIS, spatial data analyses and remote sensing technology.
+
+
+### Dokuz Eylul University
+
+Izmir, Turkey
+
+Unit: [Department of GIS](https://fbe.deu.edu.tr/en/geographical-information-systems/)
+
+The Dokuz Eylul University offers [thesis-based MSc degree](http://debis.deu.edu.tr/ders-katalog/fbe_yonlendir.php?sayfa=bolum_9450_eng.html), [non-thesis MSc](http://debis.deu.edu.tr/ders-katalog/fbe_yonlendir.php?sayfa=bolum_8959_eng.html) and [PhD degree](http://debis.deu.edu.tr/ders-katalog/fbe_yonlendir.php?sayfa=bolum_9476_eng.html) in GIS.

@@ -203,3 +203,7 @@ The program curriculum equips students with the professional planning knowledge 
 Urban Planning: [The Graduate School of Planning ](http://planificacion.uprrp.edu/?page_id=445)
 
 [Master of Planning](http://planificacion.uprrp.edu/?page_id=43) with areas of emphasis in the fields of Urban and Territorial Planning, Planning of Society and Environment, Planning of Economic Development and Community. Current planning approaches are framed by changes in the international order of the economy (globalization), the decentralization of government and the transfer of powers and competencies to municipalities, and the greater participation of communities and the private sector in decisions and public interest interventions. Among the great challenges considered by the Master's Program of Study in Planning, are included: sub-urban sprawl, deterioration of the quality of life, inequality and social marginalization, and pollution and degradation of the environment and the natural resources observed on a global, regional and national scale in most countries, including Puerto Rico.
+
+### Florida Atlantic University
+
+The [Visual Planning Technology Lab (VPT)](http://science.fau.edu/departments/urban-regional-planning/research/vpt/) in the Department of Urban & Regional Planning at FAU has training programs in computer graphics and spatial modeling/analysis for students in urban planning.

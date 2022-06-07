@@ -85,3 +85,10 @@ University of Gävle is located in the center of Gavle, which was established in
 Professor：
 
 - **[Bin Jiang](http://giscience.hig.se/binjiang/)**: GIScience, GeoInformatics, Spatial Analysis, Cartography, Space Syntax.
+
+
+### Linköping University
+
+Unit: [Department of Computer and Information Science](https://www.ida.liu.se/index.sv.shtml)
+
+There is an [International Master’s Programme in Geoinformatics](https://www.ida.liu.se/edu/gis/fimgi/) at Linköping University.

@@ -14,6 +14,15 @@ Professors:
 - **[James Leonard Best]( https://ggis.illinois.edu/directory/profile/jimbest)**: river, Spatial-time analysis.
 
 
+### Northern Illinois University
+
+DeKalb, Illinois, USA
+
+Unit: [Department of the Earth, Atmosphere and Environment](https://www.niu.edu/earth-atmosphere-environment/index.shtml)
+
+The EAE department at NIU offers [PhD](https://catalog.niu.edu/preview_program.php?catoid=55&poid=14109) and [MS in Geography](https://www.niu.edu/grad/academics/masters/geography.shtml) with 4 specializations (atmospheric science, physical and environmental geography, human geography, and GIS/spatial analysis). It also operates a training program of [Graduate Certificate in Geographic Information Analysis](https://catalog.niu.edu/preview_program.php?catoid=55&poid=14125).
+
+
 ### Ohio University
 
 Athens, Ohio, USA
@@ -388,3 +397,11 @@ Professors and associated groups：
 - **[The Healthy Regions Lab](https://herop.ssd.uchicago.edu/)**
 - **[The Center for Robust Decision-making on Climate and Energy Policy](http://www.rdcep.org/)**
 - **[The Knowledge Lab](https://www.knowledgelab.org/)**
+
+### St. Cloud State University
+
+St. Cloud, Minnesota, USA
+
+Unit: [Department of Geography and Planning](https://www.stcloudstate.edu/geogplan/default.aspx)
+
+The St. Cloud State University is a leading provider of geospatial tech education in upper midwest of the USA. The geography and planning department has a [MS in geography with GIS concentration](https://www.stcloudstate.edu/graduate/geography/default.aspx) program and a [GIS graduate certificate](https://www.stcloudstate.edu/graduate/geography/certificate.aspx) program.

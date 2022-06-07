@@ -30,6 +30,15 @@ Professors:
 - **[Robert Gilmore Pontius Jr.](http://www2.clarku.edu/faculty/facultybio.cfm?id=104)**: land change, modeling, statistics;
 - **[Florencia Sangermano](https://www2.clarku.edu/faculty/facultybio.cfm?id=896&progid=15)**: conservation biology, GIS, remote sensing and landscape ecology.
 
+### Duke University
+
+Durham, North Carolina, USA
+
+Unit: [Nicholas School of the Environment](https://nicholas.duke.edu/academics/certificate-programs/geospatial-analysis-certificate-program)
+
+The Nicholas School at Duke University operates the training programs of geospatial analytics. This program is for students enrolled in other master's or doctoral programs at Duke University, such as the [Masters of Environmental Management](https://nicholas.duke.edu/academics/masters-programs/master-environmental-management) and the [Master of Forestry](https://nicholas.duke.edu/academics/masters-programs/master-forestry).
+
+
 ### University of North Carolina, Chapel Hill
 
 Chapel Hill, North Carolina, USA
@@ -437,3 +446,29 @@ This department offers:
 -   A Bachelor of Science in Geographic Information Science, information available [here](https://earth.rowan.edu/departments/geography/academics/gis.html).
 -   A Post-Baccalaureate Certificate in Cartography and GIS, information available [here](https://global.rowan.edu/programs/cartography-and-gis-post-baccalaureate-certificate.html). 
 -   A Masters of Science in Urban and Regional Planning, with specialization in GIS.  Information is available [here](https://global.rowan.edu/programs/ms-in-urban-and-regional-planning.html). 
+
+
+### College of William & Mary
+
+Williamsburg, Virginia, USA
+
+Unit: [Department of Applied Science](https://www.wm.edu/as/appliedscience/index.php) and [Center for Geospatial Analysis (CGA)](https://www.wm.edu/as/cga/about/index.php)
+
+The William & Mary is the second oldest university in the USA. The applied science department offers PhD programs in interdisciplinary research, among which there is the geospatial analytics program with the [GeoLab](https://geolab.wm.edu/). The [CGA](https://www.wm.edu/as/cga/about/index.php) at William & Mary also offers a postgraduate certificate in geospatial sciences and remote sensing.
+
+
+### Murray State University
+
+Murray, Kentucky, USA
+
+Unit: [Department Of Earth and Environmental Sciences](https://www.murraystate.edu/academics/CollegesDepartments/CollegeOfScienceEngineeringandTechnology/CollegeOfSciencePrograms/ees/index.aspx)
+
+It offers a [masters of science in earth science with geoinformatics concentration](https://www.murraystate.edu/academics/CollegesDepartments/CollegeOfScienceEngineeringandTechnology/CollegeOfSciencePrograms/ees/graduate.aspx). It has both thesis and non-thesis options to complete this degree. The average class size of this master's program is 5. This department also provides the geospatial data science graduate certificate program.
+
+### Rutgers, the State University of New Jersey
+
+New Brunswick, New Jersey, USA
+
+Unit: [Center for Remote Sensing and Spatial Analysis](https://crssa.rutgers.edu/index.html) and [Department of Geography](https://geography.rutgers.edu/)
+
+The Grant F Walton Center for Remote Sensing and Spatial Analysis under the School of Environmental and Biological Sciences at Rutgers University has a [Graduate Certificate in GIS](https://crssa.rutgers.edu/education/gradcert.html) and also operates numerous research projects related to geoinformatics and remote sensing. The Department of Geography also has relevant [MS/MA](https://geography.rutgers.edu/academics/graduateprogram/ma-ms-degree) and [PhD](https://geography.rutgers.edu/academics/graduateprogram/phd-program) programs.

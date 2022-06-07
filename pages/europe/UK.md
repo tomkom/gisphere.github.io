@@ -7,7 +7,7 @@ London, England
 
 Units: [Centre for Advanced Spatial Analysis (CASA)](https://www.ucl.ac.uk/bartlett/casa/)，[Civil, Environmental and Geomatic Engineering (CEGE)](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/) and [Department of Geography](https://www.geog.ucl.ac.uk/)
 
-There are three major units at UCL that operate GIS-related research, each with its own distinctive characteristics, covering all aspects of GIS theory and application. CASA focuses on urban studies, complex systems, visualization, and multi-intelligent systems, with several degree programs including the [MSc in Urban Spatial Science](https://www.ucl.ac.uk/bartlett/casa/study/msc-urban-spatial-science) (replaces the previous MSc programmes, Smart Cities and Urban Analytics and Spatial Data Science and Visualisation in 2022), [MRes in Urban Spatial Science](https://www.ucl.ac.uk/bartlett/casa/study/mres-urban-spatial-science) (replaces MRes in Spatial Data Science and Visualisation in 2022) and [MSc in Connected Environments](https://www.ucl.ac.uk/bartlett/casa/programmes/msc-connected-environments) (first intake in 2021). CEGE focuses on spatio-temporal data mining, geo-artificial intelligence, 3D GIS, navigation, BIM, with [MSc in Geospatial Sciences (GIS and Computing)]( https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/geospatial-sciences-geographic-information-science-and-computing-msc), [MSc in Spatio-Temporal Analytics and Big data mining]( https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/spatio-temporal-analytics-and-big-data-mining-msc), etc. The Department of Geography focuses on demographics, consumer data analysis/spatial analysis, and remote sensing, and the GIS Master's program includes [MSc in Social and Geographic Data Science](https://www.geog.ucl.ac.uk/study/graduate-taught/msc-social-and-geographic-data-science), etc.
+UCL is a member institution of the federal University of London. There are three major units at UCL that operate GIS-related research, each with its own distinctive characteristics, covering all aspects of GIS theory and application. CASA focuses on urban studies, complex systems, visualization, and multi-intelligent systems, with several degree programs including the [MSc in Urban Spatial Science](https://www.ucl.ac.uk/bartlett/casa/study/msc-urban-spatial-science) (replaces the previous MSc programmes, Smart Cities and Urban Analytics and Spatial Data Science and Visualisation in 2022), [MRes in Urban Spatial Science](https://www.ucl.ac.uk/bartlett/casa/study/mres-urban-spatial-science) (replaces MRes in Spatial Data Science and Visualisation in 2022) and [MSc in Connected Environments](https://www.ucl.ac.uk/bartlett/casa/programmes/msc-connected-environments) (first intake in 2021). CEGE focuses on spatio-temporal data mining, geo-artificial intelligence, 3D GIS, navigation, BIM, with [MSc in Geospatial Sciences (GIS and Computing)]( https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/geospatial-sciences-geographic-information-science-and-computing-msc), [MSc in Spatio-Temporal Analytics and Big data mining]( https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/spatio-temporal-analytics-and-big-data-mining-msc), etc. The Department of Geography focuses on demographics, consumer data analysis/spatial analysis, and remote sensing, and the GIS Master's program includes [MSc in Social and Geographic Data Science](https://www.geog.ucl.ac.uk/study/graduate-taught/msc-social-and-geographic-data-science), etc.
 
 Professors:
 
@@ -25,6 +25,13 @@ Professors:
 - [Chen Zhong](https://www.ucl.ac.uk/bartlett/casa/people/dr-chen-zhong): urban mobility, spatial analysis, transportaion and land use.
 
 
+### City University of London
+
+London, England
+
+Unit: [Department of Computer Science](https://www.city.ac.uk/about/schools/science-technology/computer-science)
+
+The CUL is a member institution of the federal University of London. Under the Department of Computer Science, there is a [giCentre](https://www.city.ac.uk/research/centres/gicentre) where MPhil and PhD programs related to GIS are offered. Focuses of GIS courses include the visual analytics, cartography, computer graphics, human-computer interaction, and spatial data science.
 
 ### University of Leeds
 
@@ -295,11 +302,20 @@ Professors:
 
 ### University of Portsmouth
 
-England, Hampshire, Portsmouth
+Hampshire, Portsmouth, Hampshire, England
 
 Unit: [Department of Geography and Environmental Science](https://www.port.ac.uk/study/subject-area/geography-and-environmental-science)
 
 The University of Portsmouth's Department of Geography and Environmental Sciences offers a 1-year Master of Science degree program in Geographic Information (MSc GIS) with a focus on practical GIS skills, where students will work on projects to analyze spatial data and build their own data analytical methods, algorithms and software tools. Core courses include GIS principles, applied GIS, database management system, and the student's own research project. Elective courses include geological hazard and sustainable blue economy.
+
+
+### University of East Anglia
+
+Norwich, Norfolk, England
+
+Unit: [School of Environmental Sciences](https://www.uea.ac.uk/about/school-of-environmental-sciences)
+
+The School of Environmental Sciences at University of East Anglia offers MS and PhD programs in various aspects of environmental sciences, including the application of GIS. It is also associated with the Geoscience Group of the university where interdisciplinary projects among geology, oceanography, atmospheric science, sustainability, and climate are conducted. The research on geo-hazards is a flagship.
 
 ​
 

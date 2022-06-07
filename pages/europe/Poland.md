@@ -48,3 +48,12 @@ Szczecin, West Pomeranian Voivodeship, Poland
 Unit: [Department of Maritime Navigation](https://www.am.szczecin.pl/pl/studenci/studia-podyplomowe/wydzial-nawigacyjny-podyplomowe/geoinformatyka-i-teledetekcja-rodowiska/)
 
 The Maritime University of Szczecin is located in Szczecin, an important port city in northwestern Poland. This university is best-known for its maritime department. In this department, there is a master's degree program in geomatics and environmental remote sensing. The subject scopes of this program include spatial information systems, spatial analysis, geographic visualization, spatial databases, GNSS positioning methods, environmental remote sensing, image data processing, digital photogrammetry, and modern remote sensing methods. This is a class-based degree program with a total of 221 hours of coursework requirements.
+
+
+### Jagiellonian University
+
+Cracow (Kraków), Lesser Poland Voivodeship, Poland
+
+Unit: [Faculty of Geography and Geology](https://studia.uj.edu.pl/en_GB/kierunki/wgig/geografia)
+
+The Faculty of Geography and Geology at Jagiellonian University has a Master's program in Geography, with one of its concentrations being the GIS. The course is taught in Polish language and it takes 2 years to complete.

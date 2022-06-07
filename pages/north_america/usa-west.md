@@ -114,6 +114,8 @@ Professors:
 
 Berkeley, California, USA
 
+Unit: [College of Environmental Design](https://ced.berkeley.edu/)
+
 UC Berkeley is the most prestigious public research university in the United States. The [geography](https://geography.berkeley.edu/home), [environmental policy](https://ourenvironment.berkeley.edu/), and [environmental design](https:// ced.berkeley.edu/) units as well as the [Energy and Resources Group](https://erg.berkeley.edu/) have master's and doctoral programs closely related to GIS.
 
 - [ESPM PhD program](https://ourenvironment.berkeley.edu/graduate-programs/degrees/the-phd-program)
@@ -158,6 +160,14 @@ Professors:
 - **[Mark Ellis](https://geography.washington.edu/people/mark-ellis)**：immigration, migration, segregation, labor, statistical methods;
 - **[Michael Brown](https://geography.washington.edu/people/michael-brown)**：cities, critical theory, feminism and feminist theory, health, history, queer studies, research methods, urban studies, urban politics, political geography;
 - **[Suzanne Davies Withers](https://geography.washington.edu/people/suzanne-davies-withers)**：population, poverty, research methods, urban studies.
+
+### Central Washington University
+
+Ellensburg, Washington, USA
+
+Unit: [Department of Geography](http://www.cwu.edu/geography/)
+
+The geography department at CWU offers a [MS in Cultural and Environmental Resource Management](http://www.cwu.edu/resource-management/) as well as a [certificate in GIS](https://www.cwu.edu/geography/geographic-information-systems-certificate).
 
 ### The University of Southern California
 
@@ -354,7 +364,7 @@ Long Beach (close to Los Angeles), California, USA
 
 Unit: [College ofProfessional and Inernational Education](https://www.cpie.csulb.edu/)
 
-California State University Long Beach (CSULB), commonly known as Long Beach State University, is a public university near Los Angeles and one of the 23 campuses of the California State University system. The university has a Master of Science in Geographic Information Science degree program under its College of Professional and International Education. This is a one-year course-based master's degree. Its main courses include Geospatial Professionalism, Applied GIS, Cartographic Visualization, Enterprise GIS Development, Programming for Geospatial Professionals, and Applied Remote Sensing. There are also research projects.
+California State University Long Beach (CSULB), also known as Long Beach State University, is a public university near Los Angeles and one of the 23 campuses of the California State University system. The university has a Master of Science in Geographic Information Science degree program under its College of Professional and International Education. This is a one-year course-based master's degree. Its main courses include Geospatial Professionalism, Applied GIS, Cartographic Visualization, Enterprise GIS Development, Programming for Geospatial Professionals, and Applied Remote Sensing. There are also research projects.
 
 
 ### California State University Northridge
@@ -364,6 +374,24 @@ Northridge (close to Los Angeles), California, USA
 Unit: [Department of Geography and Environmental Studies](https://www.csun.edu/social-behavioral-sciences/geography-environmental-studies)
 
 California State University Northridge (CSUN) is one of the 23 campuses of the California State University system,. It is located in the Northridge area to the north of downtown Los Angeles. The  Department of Geography and Environmental Studies at CSUN is one of the largest geography departments in the United States. The department offers two master's degrees, namely MA and MS, of which MS is mainly for geographic information systems. This is a course-based master's degree aimed at training students for GIS and tech-oriented careers in geography-related industries. Its main courses include Remote Sensing, Digital Cartography, WebGIS, Spatial Database, and GIS Application. The direction of MA mainly includes urban geography, regional geography, and economic geography. Entry requirements include holding a bachelor's degree and an undergraduate GPA of 3.0 or higher, of which the GPA of the last two years should not be below 2.75.
+
+
+### California State University San Bernardino
+
+San Bernardino, California, USA
+
+Unit: [Department of Chemistry & Biochemistry](https://www.csusb.edu/chemistry-biochemistry), [Department of Geological Sciences](https://www.csusb.edu/geology) and [Department of Geography and Environmental Studies](https://www.csusb.edu/geography)
+
+The CSUSB is one of the 23 campuses of the California State University system. The Department of Chemistry & Biochemistry at CSUSB offers a [MS in Environmental Science](https://catalog.csusb.edu/colleges-schools-departments/natural-sciences/chemistry-biochemistry/environmental-sciences-ms/) and a [MS in Geology](https://catalog.csusb.edu/colleges-schools-departments/natural-sciences/geological-sciences/geology-ms/) (co-hosted with the geological science department) in which trainings and research related to GIS and remote sensing are conducted. The Department of Geography and Environmental Studies also provides undergraduate trainings in geography. The is also a research lab ([Water Resources Institute](https://www.csusb.edu/water-resources-institute)) associated with this university where archives of GIS data and related studies are conducted.
+
+
+### San Francisco State University
+
+San Francisco, California, USA
+
+Unit: [Department of Geography and Environment](https://geog.sfsu.edu/node/27)
+
+The SFSU is one of the 23 campuses of the California State University system. It operates a [MS in GIS](https://geog.sfsu.edu/msgis) program under the Department of Geography and Environment. The university is also home to the [Institute for Geographic Information Science](https://gis.sfsu.edu/) in which a [Professional Certificate of GIS](https://cel.sfsu.edu/geographic-information-systems) training program is offered.
 
 ### University of Redlands
 
@@ -388,3 +416,12 @@ Professors:
 - **Daniel Spencer**: tourism, planning, management;
 - **Abby Frazier**: ecology, climate, spatial analysis;
 - **Yi Qiang**: spatiotemporal data science, visual analytics.
+
+
+### Charles R. Drew University of Medicine and Science
+
+Willowbrook, California, USA
+
+Unit: [Medical Geographic Information Systems Laboratory (CDMGIS)](http://medgis.cdrewu.edu/)
+
+The Charles Drew University is a historically black graduate medical school in greater Los Angeles. Currently it also hosts undergraduate programs in public health and nursing. The CDMGIS provides trainings in medical geography and health GIS. It facilitates interdisciplinary collaboration by linking the computing facilities, spatial databases and the resident expertise at the this lab with other research and teaching activities occurring at Charles Drew University, UCLA and other RCMI institutions of NIH.
