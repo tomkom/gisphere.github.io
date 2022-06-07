@@ -119,6 +119,21 @@ Professors:
 - **[Karl Wegmann](https://cnr.ncsu.edu/geospatial/directory/karl-wegmann/)**: landscape, surface process, geological controls, climate forcing, tectonics;
 - **[Sandra Yuter](http://www.environmentanalytics.com)**: environmental analytics, weather, climate, remote sensing.
 
+### North Carolina Central University
+
+Durham, North Carolina, USA
+
+Unit: [Department of Environmental, Earth, and Geospatial Sciences](https://www.nccu.edu/chs/environmental-earth-and-geospatial-sciences)
+
+The DEEGS department at NCCU was founded in 1960s by Theodore Speigner, the first ever African American who received a PhD degree in conservation (completed at University of Michigan). Currently, the department has a MS degree program in geography and environmental sciences, as well as a graduate certificate program in geospatial intelligence.
+
+Professors:
+
+- **[Gordana Vlahovic](https://www.nccu.edu/employee/gvlahovic)**: geohazard, GIS applications;
+- **[Timothy J Mulrooney](https://www.nccu.edu/employee/tmulroon)**: geographic data mining, large spatial database, metadata integrity;
+- **[Rakesh Malhotra](https://www.nccu.edu/employee/rmalhotra)**: geospatial intelligence, urban transportation, mapping.
+
+
 ### Temple University
 
 Philadelphia, Pennsylvania, USA
