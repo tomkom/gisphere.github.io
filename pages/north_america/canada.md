@@ -815,3 +815,12 @@ Units:
   - PhD, MEng (course-based option), MASc
 - [Northern Studies](https://carleton.ca/northernstudies/)
   - MA, MSc
+
+### Laval University
+**Université Laval**
+
+Quebec City, Quebec, Canada
+
+Unit: [Faculty of Forestry, Geography, and Geomatics](https://www.ffgg.ulaval.ca/)
+
+The Laval University has [Master in Geomatic Sciences](https://www.scg.ulaval.ca/maitrise-en-sciences-geomatiques-avec-memoire), [Masters in Geomatics Applications](https://www.scg.ulaval.ca/maitrise-en-sciences-geomatiques-geomatique-appliquee) and [Geomatic Science PhD](https://www.scg.ulaval.ca/troisieme-cycle-en-geomatique) programs. The instructional language of this university is French, and good understanding of English is also required for graduate degree programs.
