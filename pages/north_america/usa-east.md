@@ -361,7 +361,8 @@ Professors:
 - **[Rich Donohue](https://geography.as.uky.edu/users/rgdo225)**: critical GIS, spatial analysis, web mapping, cartography;
 - **[Jack Gieseking](https://geography.as.uky.edu/users/jgi253)**: digital geography, geo-visualization, critical GIS;
 - **[Nick Lally](https://geography.as.uky.edu/users/npla224)**: GIS, cartography, GIS software;
-- **[Matthew Zook](https://geography.as.uky.edu/users/zook)**: spatial media, big data, GeoWeb.
+- **[Matthew Zook](https://geography.as.uky.edu/users/zook)**: spatial media, big data, GeoWeb;
+- **[Jeff Levy](https://geography.as.uky.edu/users/jelevy0)**: GIS, Health geography, Cartography, Exposure & Accessibility Assessments; Geocoding Precision.
 
 ### West Virginia University
 
