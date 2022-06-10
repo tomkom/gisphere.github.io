@@ -57,3 +57,21 @@ Cracow (Kraków), Lesser Poland Voivodeship, Poland
 Unit: [Faculty of Geography and Geology](https://studia.uj.edu.pl/en_GB/kierunki/wgig/geografia)
 
 The Faculty of Geography and Geology at Jagiellonian University has a Master's program in Geography, with one of its concentrations being the GIS. The course is taught in Polish language and it takes 2 years to complete.
+
+
+### Wroclaw University of Environmental and Life Sciences
+
+Wroclaw, Lower Silesian Voivodeship, Poland
+
+Unit: [Institute of Geodesy and Geoinformatics](https://www.igig.up.wroc.pl/en/)
+
+Institute of Geodesy and Geoinformatics of Wroclaw University of Life Sciences is widely involved in the research in the field of geographic information science. A group of young and ambitious scientists collaborates in the ["Big Data" team](https://spaceos.igig.upwr.edu.pl/big-data/), working on topics related to human mobility, geoprivacy, animal movement, and utilities demand forecasting. The goal of this team is to harness mobile technology to protect privacy, improve the smart use of utilities, and visualize complex spatio-temporal phenomena. Scientists there are especially focused on movement datasets, describing traveling entities but we have a wider experience in geoinformatics and analyzing any kind of spatio-temporal data. With an aid of machine learning, they are looking for hidden patterns, and building models of the real world to create innovative solutions supporting sustainable community growth. The mobility research they undertake has broad applications in smart city solutions, transport system optimization, and modeling of disease transmission in the human and animal worlds.
+
+Professors:
+
+-   Witold Rohm 
+-   Paweł Bogusławski
+-   Katrzyna Siła-Nowicka
+-   Vanessa Brum-Bastos
+-   Kamil Smolak
+-   Barbara Hordyniec
