@@ -18,7 +18,7 @@ Professors:
 
 ### Clark University
 
-Wocester, Massachusetts, USA
+Worcester, Massachusetts, USA
 
 Unit: [Department of Geography](https://www.clarku.edu/departments/geography/)
 
