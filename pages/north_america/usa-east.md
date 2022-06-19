@@ -439,6 +439,7 @@ Professors:
 - **[Ezra Markowitz](https://eco.umass.edu/people/faculty/markowitz-ezra/)**: sustainability, social well-being;
 - **[Timothy Randhir](https://eco.umass.edu/people/faculty/randhir-timothy-o/)**: watershed sciences, sustainability sciences, environmental sciences, ecological economics, landscape ecology, climate change, ecohydrology, computational modeling, management decision sciences, complex systems;
 - **[Lisa Komoroske](https://eco.umass.edu/people/faculty/komoroske-lisa/)**: global change, conservation management, ecological adaptation.
+- **[Andy Anderson](https://eco.umass.edu/people/adjunct-faculty/anderson-andy/)**: light pollution, remote sensing, data science.
 
 ### University of New Hampshire
 
