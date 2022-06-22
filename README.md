@@ -110,7 +110,7 @@ USA
 
 [Finland](https://gisphere.github.io/pages/europe/finland.html)
 
-[Iceland(https://gisphere.github.io/pages/europe/iceland.html)
+[Iceland](https://gisphere.github.io/pages/europe/iceland.html)
 
 [Norway](https://gisphere.github.io/pages/europe/norway.html)
 

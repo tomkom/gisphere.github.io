@@ -18,3 +18,10 @@ The JUST provides the [MS in Urban Planning and Studies](https://www.just.edu.jo
 Zarqa, Jordan
 
 The [Faculty of Natural Resources and Environment](https://hu.edu.jo/facnew/about.aspx) provides Masters and Doctoral degree plans, with specialties on agriculture, water, petroleum, minerals, deserts, biodiversity. The program focuses on the use of modern technology such as GIS, Remote Sensing and Network Informatics.
+
+
+### Al al-Bayt University
+
+Mafraq, Jordan
+
+The [Istitute of Earth and Environmental Sciences](https://www.aabu.edu.jo/ar/collegesandinstitutes/InstituteofEarth/Departments/GISAR/Pages/default.aspx) at AABU has a department for GIS and remote sensing, in which they offer a Master's degree.

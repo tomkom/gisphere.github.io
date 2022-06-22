@@ -76,7 +76,7 @@ Professors：
 
 ### University of Gävle
 
-Sweden, Gästrikland, Gävle
+Gävle, Gästrikland, Sweden
 
 Unit: [Department of Computer and Geospatial Sciences](https://www.hig.se/Ext/En/University-of-Gavle/Organisation/Akademier/Faculty-of-Engineering-and-Sustainable-Development/Departments-at-the-Faculty/Department-of-Computer-and-Geospatial-Sciences.html)
 
@@ -88,6 +88,8 @@ Professor：
 
 
 ### Linköping University
+
+Linköping, Östergötland, Sweden
 
 Unit: [Department of Computer and Information Science](https://www.ida.liu.se/index.sv.shtml)
 
