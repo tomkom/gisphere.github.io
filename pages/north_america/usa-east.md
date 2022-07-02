@@ -488,3 +488,11 @@ New Brunswick, New Jersey, USA
 Unit: [Center for Remote Sensing and Spatial Analysis](https://crssa.rutgers.edu/index.html) and [Department of Geography](https://geography.rutgers.edu/)
 
 The Grant F Walton Center for Remote Sensing and Spatial Analysis under the School of Environmental and Biological Sciences at Rutgers University has a [Graduate Certificate in GIS](https://crssa.rutgers.edu/education/gradcert.html) and also operates numerous research projects related to geoinformatics and remote sensing. The Department of Geography also has relevant [MS/MA](https://geography.rutgers.edu/academics/graduateprogram/ma-ms-degree) and [PhD](https://geography.rutgers.edu/academics/graduateprogram/phd-program) programs.
+
+### Johns Hopkins University
+
+Washington, DC, USA
+
+Unit: [ Dept. of Earth and Planetary Sciences](https://eps.jhu.edu/)
+
+JHU offers a [MS in Geographic Information Systems](https://advanced.jhu.edu/academics/graduate/ms-geographic-information-systems/) at advanced academic programs. It was designed for working professionals and students can take classes 100% online and choose to attend full- or part-time. The Department of Earth and Planetary Sciences also offers [PHD](https://eps.jhu.edu/graduate/) programs.

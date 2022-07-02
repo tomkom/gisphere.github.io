@@ -28,6 +28,10 @@ URBAN PLANNING AND DESIGN：
 - **[Ma, Jun](https://www.arch.hku.hk/staff/upad/ma-jun/?dept=upad)**: Urban Computing, environmental computing, AI and robotics in smart cities;
 - **[YANG, Tianren](https://www.arch.hku.hk/staff/upad/yang-tianren/)**: urban analytics and modelling, urban spatial structure and travel, planning support systems for decision-making;
 - **[CHEN, Bin](https://www.arch.hku.hk/staff/dla/chen-bin/)**:Remote Sensing and Data-Model Fusion, Geographic Information Systems (GIS) and Geospatial Big Data Analysis, Urban Environmental and Public Health, Human-Environment Spatiotemporal Interaction, Sustainable Development Goals (SDGs).
+- **[Zhang, Xiaohu](https://www.arch.hku.hk/staff/upad/zhang-xiaohu/?dept=upad)**: Shared Mobility, Urban Simulation, Urban Data Science
+- **[Zhao, Zhan](https://www.arch.hku.hk/staff/upad/zhao-zhan/?dept=upad)**: Urban Computing and Spatiotemporal Data Mining; Human Mobility and Travel Behavior; Public Transit and Shared Mobility on Demand Systems
+- **[Zhou Yulun](https://www.arch.hku.hk/staff/upad/zhou-yulun/?dept=upad)**: Urban Complex Systems and Spatial Data Mining; Spatial Cognition and Human Inspired Computing; Operations Research and Decision Science for Smart Cities
+- **[Zhu, Jin](https://www.arch.hku.hk/staff/rec/zhu-jin/?dept=upad)**: Span housing and land policy, urbanisation and migration, sustainable built environment and urban governance
 
 Department of GEOGRAPHY：
 
