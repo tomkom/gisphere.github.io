@@ -187,8 +187,8 @@ Professors:
 - **[Robert O. Vos](https://spatial.usc.edu/team-view/robert-vos/)**: Associate Professor (Teaching) of Spatial Sciences and Director of Graduate Studies, interests in industrial ecology, environmental policy, sustainable cities;
 - **[John P. Wilson](https://spatial.usc.edu/team-view/john-p-wilson/)**: Professor of Architecture, Civil & Environmental Engineering and Computer Science, Population and Public Health Sciences, Sociology and Spatial Sciences, and Founding Director, Spatial Sciences Institute,interests in GIS, Spatial Analysis, Environmental Modeling;
 - **[An-Min Wu](https://spatial.usc.edu/team-view/an-min-wu/)**:Assistant Professor (Teaching) of Spatial Sciences, interests in environmental sciences, geographic information science;
-- **[Steven D. Fleming](https://spatial.usc.edu/team-view/steven-d-fleming/)**:Adjunct Professor of the Practice of Spatial Sciences;
-- **[Guoping Huang](https://spatial.usc.edu/team-view/guoping-huang/)**:Associate Professor (Teaching) of Spatial Sciences;
+- **[Steven D. Fleming](https://spatial.usc.edu/team-view/steven-d-fleming/)**:Adjunct Professor of the Practice of Spatial Sciences, interests in applications of geospatial technologies for national defense; emerging terrestrial, airborne and space-based image collection systems; online, blended education/training using mobile devices; dynamic mapping of coastal regions;
+- **[Guoping Huang](https://spatial.usc.edu/team-view/guoping-huang/)**:Associate Professor (Teaching) of Spatial Sciences, interests in Landscape planning, GIS, Geodesign;
 
 ### San Diego State University
 
