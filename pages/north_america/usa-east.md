@@ -176,7 +176,8 @@ Professors:
 - **[Anthony Robinson](https://www.geog.psu.edu/directory/anthony-robinson)**: geovisual analytics, cartography, user-centered design, geovisualization, information visualization;
 - **[Manzhu Yu](https://www.geog.psu.edu/directory/manzhu-yu)**: spatiotemporal theories and applications, natural hazards and extreme weather, environmental informatics, spatial data science and deep learning;
 - **[Helen Greatrex](https://www.geog.psu.edu/directory/anthony-robinson)**: weather risk management, geostatistics, uncertainty estimation, historical weather analysis, satellite rainfall estimation, index insurance, agricultural modeling, social equity;
-- **[Shujie Wang](https://www.geog.psu.edu/directory/shujie-wang)**: remote sensing, numerical modeling, cryosphere, climate system.
+- **[Shujie Wang](https://www.geog.psu.edu/directory/shujie-wang)**: remote sensing, numerical modeling, cryosphere, climate system;
+- **[Tong Qiu](https://ecosystems.psu.edu/directory/tvq5043)** (Dept. of Ecosystem Science and Management): remote sensing of ecology，biodiversity，climate change，phenology，geospatial and ecological big data，forest regeneration .
 
 ### Shippensburg University of Pennsylvania
 
