@@ -163,11 +163,13 @@ The Institute of Urban Research and the School of Design at Penn jointly offer t
 
 University Park (State College), Pennsylvania, USA
 
-Unit: [Department of Geography](https://www.geog.psu.edu/)
+Unit: [Department of Geography](https://www.geog.psu.edu/) and [Department of Ecosystem Science and Management](https://ecosystems.psu.edu/)
 
 Penn State is a top-tier public university in the United States. Its geography department is a powerhouse and has 4 general research directions (subfields) including GIS, physical geography, human geography, and environment and society geography. There are three types of residential postgraduate programs in the department. Bachelors can apply for the 2-year master’s degree program, or the 2-year master’s and 3-year doctoral joint degree program. Masters-degree holders can apply for the 4-year doctoral degree program. There is also an online Master of Geographic Information Systems (MGIS) program and an online Master of Science in Spatial Data Science program both of which are offered via the [World Campus at Penn State](geospatial.psu.edu). These online programs are designed mainly for people who are already working, but students in this program will receive the same degrees and certificates as residential graduate students and all courses are developed and taught by faculty in the Department of Geography. Programs in this department are STEM and therefore may be good options for international students.
 
-Ecology and related programs at Penn State are mainly hosted by the [Huck Institute of Life Sciences](https://www.huck.psu.edu/).
+Penn State is well-known in ecology and environmental sciences as well. The Department of Ecosystem Science and Management prepares students for careers in the conservation and management of natural and human-dominated ecosystems. Their STEM education M.S. and Ph.D. are designated in three tracks: Forest Resources, Soil Science and Wildlife& Fish Science. Applicants  with bachelor degree can apply for the two-year M.S degree or the 2+3 PhD degree. Applicants with master degree can apply for the four-year PhD program. In addition, the department also offers Intercollege Degree Programs for applicants who wish to study through multiple Penn State colleges. Specialties include a two-year M.S in Ecology and a five-year Ph.D. in Ecology.
+
+Other ecology and related programs at Penn State are mainly hosted by the [Huck Institute of Life Sciences](https://www.huck.psu.edu/).
 
 Professors:
 
