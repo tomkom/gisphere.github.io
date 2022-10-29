@@ -128,8 +128,8 @@ The [Laboratory of Terrestrial Ecosystem Modeling](https://terraecomod.wixsite.c
 
 Professors:
 
-- **[Takeo Tadono(田殿武雄)](https://www.researchgate.net/profile/Takeo-Tadono)**: Remote Sensing, Land cover and use, Ecosystem;
-- **[Hiroshi Murakami  (村上浩)](https://ieeexplore.ieee.org/author/37086379399)**: Algorithm Development and Validation of GCOM-C products, Satellite Optical Sensor Calibration;
+- **[Takeo Tadono (田殿武雄)](https://www.researchgate.net/profile/Takeo-Tadono)**: Remote Sensing, Land cover and use, Ecosystem;
+- **[Hiroshi Murakami (村上浩)](https://ieeexplore.ieee.org/author/37086379399)**: Algorithm Development and Validation of GCOM-C products, Satellite Optical Sensor Calibration;
 - **[Kei Shiomi (盐见圭)](https://ieeexplore.ieee.org/author/37269506800)**: Remote Sensing, GOSAT calibration and data processing.
 - **[Tomomichi Kato (加藤知道)]((https://terraecomod.wixsite.com/kato-lab-hokudai-e))**: Plant Ecology, Solar induced Chlorophyll Fluorescence, Forest Biomass, Ecological Modeling, Climate Change
 
