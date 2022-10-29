@@ -141,6 +141,8 @@ Professors:
 - **[Robert Roth](https://geography.wisc.edu/cartography/people/Roth.html)**: cartography, story map, WebGIS;
 - **[Christian Andresen](http://www.christiangandresen.com/)**: arctic ecosystems, remote sensing, surface hydrology, wetlands, environmental change, carbon cycling, geospatial analytics, LiDAR, photogrammetry, unmanned aerial systems;
 - **[John W. (Jack) Williams](https://williamspaleolab.github.io)**: paleoecoinformatics, geo-cyberinfrastructure, paleoecology, paleoclimatology, novel ecosystems, vegetation dynamics, global climate change, quaternary environments;
+- **[Bill Limpisathian](https://geography.wisc.edu/staff/limpisathian-bill)**: cognitive cartography, human-centric map design, and geospatial cognition;
+- **[Jonathan Nelson](https://geography.wisc.edu/staff/nelson-jonathan)**: cartography, geovisual analytics, data visualization, and human-centered design;
 - **[Zhou Zhang](https://digitalag.bse.wisc.edu/)** (Department of Biological System Engineering): multi-source remote sensing, LiDAR, digital agriculture;
 - **[Anna Pidgeon](http://silvis.forest.wisc.edu/staff/anna-pidgeon/)** (Department of Forest & Wildlife Ecology): ecological field work, remote sensing, GIS, statistics;
 - **[Volker C. Radeloff](http://silvis.forest.wisc.edu/staff/radeloff-volker/)** (Department of Forest & Wildlife Ecology): biodiversity, spatial analysis;
