@@ -122,9 +122,7 @@ Sapporo, Hokkaido, Japan
 
 Unit: [Group of Informatics for Remote Sensing](https://www.eorc.jaxa.jp/ISS/en/index.html) and [Laboratory of Terrestrial Ecosystem Modeling](https://terraecomod.wixsite.com/kato-lab-hokudai-e)
 
-The Group of Informatics for Remote Sensing at the Hokkaido University offers master's and doctoral degree programs. This group mainly utilizes remote sensing to study global and regional issues.
-
-The [Laboratory of Terrestrial Ecosystem Modeling](https://terraecomod.wixsite.com/kato-lab-hokudai-e) in the Research Faculty of Agriculture is always looking for the international students who possess a strong desire for high-level academic science. The prospective students would enter our lab via two graduate schools: Graduate School of Global Food Resources and Graduate School of Agricutlure. We have been working on many remote-sensing topics: Forest biomass estimation, Solar induced Chlorophyll Fluorescence, Long-term spectral measurement, as well as ecosyste modeling which are dedicated for understanding the ecosytem response to climate change.
+The Group of Informatics for Remote Sensing at the Hokkaido University offers master's and doctoral degree programs. This group mainly utilizes remote sensing to study global and regional issues. The [Laboratory of Terrestrial Ecosystem Modeling](https://terraecomod.wixsite.com/kato-lab-hokudai-e) in the Research Faculty of Agriculture works on many remote-sensing topics: Forest biomass estimation, Solar induced Chlorophyll Fluorescence, Long-term spectral measurement, as well as ecosyste modeling which are dedicated for understanding the ecosytem response to climate change.
 
 Professors:
 
