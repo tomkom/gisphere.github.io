@@ -120,15 +120,18 @@ Professors:
 
 Sapporo, Hokkaido, Japan
 
-Unit: [Group of Informatics for Remote Sensing](https://www.eorc.jaxa.jp/ISS/en/index.html)
+Unit: [Group of Informatics for Remote Sensing](https://www.eorc.jaxa.jp/ISS/en/index.html) and [Laboratory of Terrestrial Ecosystem Modeling](https://terraecomod.wixsite.com/kato-lab-hokudai-e)
 
 The Group of Informatics for Remote Sensing at the Hokkaido University offers master's and doctoral degree programs. This group mainly utilizes remote sensing to study global and regional issues.
+
+The [Laboratory of Terrestrial Ecosystem Modeling](https://terraecomod.wixsite.com/kato-lab-hokudai-e) in the Research Faculty of Agriculture is always looking for the international students who possess a strong desire for high-level academic science. The prospective students would enter our lab via two graduate schools: Graduate School of Global Food Resources and Graduate School of Agricutlure. We have been working on many remote-sensing topics: Forest biomass estimation, Solar induced Chlorophyll Fluorescence, Long-term spectral measurement, as well as ecosyste modeling which are dedicated for understanding the ecosytem response to climate change.
 
 Professors:
 
 - **[Takeo Tadono(田殿武雄)](https://www.researchgate.net/profile/Takeo-Tadono)**: Remote Sensing, Land cover and use, Ecosystem;
 - **[Hiroshi Murakami  (村上浩)](https://ieeexplore.ieee.org/author/37086379399)**: Algorithm Development and Validation of GCOM-C products, Satellite Optical Sensor Calibration;
 - **[Kei Shiomi (盐见圭)](https://ieeexplore.ieee.org/author/37269506800)**: Remote Sensing, GOSAT calibration and data processing.
+- **[Tomomichi Kato (加藤知道)]((https://terraecomod.wixsite.com/kato-lab-hokudai-e))**: Plant Ecology, Solar induced Chlorophyll Fluorescence, Forest Biomass, Ecological Modeling, Climate Change
 
 ### Keio University
 
