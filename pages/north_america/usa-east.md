@@ -394,8 +394,11 @@ The geography department at Syracuse University is affiliated to Maxwell School 
 Professors:
 
 - **[Peng Gao](http://pegao.expressions.syr.edu/)**: erosion and sediment transport in rivers and watersheds, 3D GIS design and analysis for urban environments;
-- **[Jane read](https://www.maxwell.syr.edu/geo/read,_Jane_M_/)**: Geographic information systems and remote sensing, human-environment interactions, geohumanities, indigenous livelihoods, Latin America;
+- **[Jane Read](https://www.maxwell.syr.edu/geo/jane-m-read/)**: Geographic information systems and remote sensing, human-environment interactions, geohumanities, indigenous livelihoods, Latin America;
 - **[Jonnell Robinson](https://www.maxwell.syr.edu/geo/Robinson,_Jonnell_A_/)**: community geography, participatory geographic information systems (GIS);
+- **[Karl Offen](https://www.maxwell.syr.edu/directory/karl-offen)**: Historical geography, political ecology, Latin America and the Caribbean, Atlantic world, map studies;
+- **[Ethan Coffel](https://www.maxwell.syr.edu/directory/ethan-coffel)**: Climate science, climate impacts, extreme weather, agriculture, energy, infrastructure;
+- **[Arnisson Andre Ortega](https://www.maxwell.syr.edu/directory/arnisson-andre-ortega)**: Community geography, urban geography, population geography, Global South cities, migration, transnationalism, suburbanization, population, socio-spatial theory, decolonization, quantitative methods, mixed-methods, critical demography, counter-mapping;
 - **[Tao Wen](https://thecollege.syr.edu/people/faculty/tao-wen/)** (Dept. of Earth and Environment): spatiotemporal data science for hydrology, environmental informatics, geoscience data mining, big data.
 
 ### University of Maryland
