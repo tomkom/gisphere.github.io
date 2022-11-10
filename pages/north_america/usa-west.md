@@ -156,7 +156,7 @@ The Department of Geography at UW is the research cradle for Critical GIS and Ge
 
 Professors:
 - **[Bo Zhao](https://hgis.uw.edu/)**：big data, geographic information systems, geovisualization, mapping science and technology, social media, cartography, mininformation;
-- **[Sarah Elwood](https://geography.washington.edu/people/mark-ellis)**：geographic information systems, geovisualization, justice, mapping, poverty;
+- **[Sarah Elwood]( https://geography.washington.edu/people/sarah-elwood)**：geographic information systems, geovisualization, justice, mapping, poverty;
 - **[Mark Ellis](https://geography.washington.edu/people/mark-ellis)**：immigration, migration, segregation, labor, statistical methods;
 - **[Michael Brown](https://geography.washington.edu/people/michael-brown)**：cities, critical theory, feminism and feminist theory, health, history, queer studies, research methods, urban studies, urban politics, political geography;
 - **[Suzanne Davies Withers](https://geography.washington.edu/people/suzanne-davies-withers)**：population, poverty, research methods, urban studies.
