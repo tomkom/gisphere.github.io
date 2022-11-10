@@ -15,6 +15,6 @@ Professors：
  - **[FENG, Chen-Chieh](https://eminence365.wordpress.com/)**: spatial data modeling and spatial information theory; Cyberinfrastructure; GIS and education;
  - **[YAN, Yingwei](https://profile.nus.edu.sg/fass/geoyy/)**: spatial big data analytics, citizen GIScience, volunteered geographic information;
  - **[WANG, Yi-Chen](https://courses.nus.edu.sg/course/geowyc/)**: GIS and remote sensing applications, spatial epidemiology;
- - **[Luo Wei](https://profile.nus.edu.sg/fass/geowl/)**: geovisual analytics, social network analysis, agent-based epidemic modeling, infectious disease surveillance and control;
+ - **[Luo Wei](https://profile.nus.edu.sg/fass/geowl/)**: Infectious disease surveillance and control, international trade and supply chain, geovisual analytics, agent-based modeling, social network, AI and machine learning.;
  - **[LUO, Xiangzhong (Remi)](https://profile.nus.edu.sg/fass/geolx/)**: terrestrial carbon cycle, eddy covariance, dynamic vegetation models, leaf traits;
  - **[Filip Biljecki](https://ual.sg)**: urban analytics, 3D city modeling, machine learning, spatial data quality, digital twins.
