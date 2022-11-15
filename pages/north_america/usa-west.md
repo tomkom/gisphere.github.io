@@ -39,22 +39,22 @@ Unit: [School of Geographical Sciences & Urban Planning](https://sgsup.asu.edu/)
 The School of Geographical Sciences & Urban Planning at Arizona State University (ASU) is strong in spatial analysis, spatial statistics, and urban meteorology. Currently, it is home to three fellows of the American Academy of Sciences. Research projects are conducted through three research centers, namely [SPARC Spatial Analysis Center]((https://sgsup.asu.edu/SPARC)), [Global Discovery and Conservation Science Center]((https://sustainability.asu.edu/urban-climate/)), and [Urban Climate Research Center]((https://sustainability.asu.edu/urban-climate/)). GIS-related degrees include research-based masters and PhDs, and a [course-based masters]( https://sgsup.asu.edu/degree-programs/graduate-degrees/master-gis) degree (1 to 2 years, STEM).
 
 Professors:
--   **[Stewart Fotheringham](https://sgsup.asu.edu/stewart-fotheringham)**: GWR, spatial analysis;
--   **[Wenwen Li](https://sgsup.asu.edu/wenwen-li)**: GIScience;
--   **[Greg Anser](https://sgsup.asu.edu/gregory-asner)**: remote sensing, ecology;
--   **[Daoqin Tong](https://sgsup.asu.edu/daoqin-tong)**: spatial optimization, spatial statistics;
--   **[Michael Kuby](https://sgsup.asu.edu/michael-kuby)**: transportation, optimization;
--   **[David Sailor](https://geography.wisc.edu/cartography/people/Roth.html)**: climate with the built environment;
--   **[Soe Myint](https://sgsup.asu.edu/soe-myint)**: remote sensing, GIS;
--   **[Peter Kedron](https://sgsup.asu.edu/peter-kedron)**: spatial analysis and statistics;
--   **[Amy Frazier](https://sgsup.asu.edu/amy-frazier)**: remote sensing, GIS, UAV;
--   **[Elizabeth Wentz](https://sgsup.asu.edu/elizabeth-wentz)**: shape and pattern analysis, geographic information science, applications of GIS to urban environment, urban remote sensing, water resource management;
--   **[Roberta Martin](https://sgsup.asu.edu/roberta-martin)**: remote sensing, biodiversity;
+-   **[Stewart Fotheringham](https://sustainability-innovation.asu.edu/person/stewart-fotheringham/)**: geographic information science, spatial analysis, migration, Good Health and Well-Being, Sustainable Cities and Communities;
+-   **[Wenwen Li](https://sustainability-innovation.asu.edu/person/wenwen-li/)**: Spatial analysis, GIS, space-time pattern analysis, cyberinfrastructure;
+-   **[Greg Anser](https://sustainability-innovation.asu.edu/person/gregory-asner/)**: remote sensing, biodiversity, conservation, ecology, Life on Land;
+-   **[Daoqin Tong](https://sustainability-innovation.asu.edu/person/daoqin-tong/)**: GIS, transportation, optimization, energy conservation, urban planning;;
+-   **[Michael Kuby](https://sustainability-innovation.asu.edu/person/michael-kuby/)**: transportation, optimization;
+-   **[David Sailor](https://sustainability-innovation.asu.edu/person/david-sailor/)**: climate with the built environment, urban heat island, air quality;
+-   **[Soe Myint](https://sustainability-innovation.asu.edu/person/soe-myint/)**: remote sensing, GIS, land use and land cover, forestry, hydrology;
+-   **[Peter Kedron](https://search.asu.edu/profile/3316903)**: spatial analysis and statistics, economic geography, reproducibility, replicability;
+-   **[Amy Frazier](https://sustainability-innovation.asu.edu/person/amy-frazier/)**: remote sensing, GIS, UAV, landscape sustainability;
+-   **[Elizabeth Wentz](https://sustainability-innovation.asu.edu/person/elizabeth-wentz/)**: shape and pattern analysis, geographic information science, applications of GIS to urban environment, urban remote sensing, water resource management;
+-   **[Roberta Martin](https://search.asu.edu/profile/3403192)**: remote sensing, biodiversity;
 -   **[Matthew Quick](https://sgsup.asu.edu/matthew-quick)**: spatiotemporal analytical methods, urban planning, urban geography, criminology, public health;
--   **[Dylan Connor](https://sgsup.asu.edu/dylan-connor)**: big historical data, immigration, demography, intergenerational inequality, urban and regional development;
--   **[Jiwei Li](https://isearch.asu.edu/profile/1894638)**: oceanography, biogeoscience;
--   **[B.L. Turner II](https://sgsup.asu.edu/bl-turner-ii)**: urban science, sustainability;
--   **[Sharmistha Bagchi-Sen](https://sgsup.asu.edu/sharmistha-bagchi-sen)**: urban development, spatial analysis.
+-   **[Dylan Connor](https://search.asu.edu/profile/1887290)**: big historical data, immigration, demography, intergenerational inequality, urban and regional development;
+-   **[Jiwei Li](https://search.asu.edu/profile/1894638)**: oceanography, biogeoscience;
+-   **[B.L. Turner II](https://sustainability-innovation.asu.edu/person/billie-turner-ii/)**: urban science, sustainability, deforestation, agriculture, land use and land cover;
+-   **[Sharmistha Bagchi-Sen](https://search.asu.edu/profile/3981525)**: urban development, spatial analysis.
 
 ### University of Oregon
 
