@@ -152,7 +152,7 @@ Faculty: [School of Public Policy](https://spp.ucr.edu/)
 University of California Riverside does not offer M.S. or M.A. program in GIS, but its school of Public Policy is tightly related to GIScience. It brings together an interdisciplinary team of professors from diverse disciplinary backgrounds such as Economics, Environmental Sciences, Geography, History, Political Science, and Sociology.  [Center for Geospatial Sciences (CGS)](https://spatial.ucr.edu/) is affiliated to the school of Public Policy and Department of Computer Science and Engineering, which represents a major investment by UCR in geospatial sciences.
 
 Professors:
--**[Tony H.Grubesic]([Tony H. Grubesic - Home](http://www.tonygrubesic.net/index.html))**: Data Science, Geocomputation, Technology, Policy and Society, Urban and Environmental Planning, Public Health, Transportation, Human Environmental Interaction, Remote Sensing;
+- **[Tony H.Grubesic](http://www.tonygrubesic.net/index.html)**: Data Science, Geocomputation, Technology, Policy and Society, Urban and Environmental Planning, Public Health, Transportation, Human Environmental Interaction, Remote Sensing;
 
 ###  University of Washington
 
