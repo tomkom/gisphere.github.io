@@ -152,7 +152,7 @@ Professors:
 
 **TU Berlin**
 
-Germany, Berlin state, Berlin
+Berlin, Berlin state, Germany
 
 Unit: [**Institute of Geodesy and Geoinformation Science**](https://www.igg.tu-berlin.de/menue/ueber_uns/parameter/en/)
 
@@ -166,7 +166,7 @@ Professor：
 
 **HU Berlin**
 
-Germany, Berlin state, Berlin
+Berlin, Berlin state, Germany
 
 Unit：[Geography Department](https://www.geographie.hu-berlin.de/en/geography_department)
 
@@ -183,7 +183,7 @@ Professors：
 
 **FU Berlin**
 
-Germany, Berlin state, Berlin
+Berlin, Berlin state, Germany
 
 Unit：[Institute of Geographical Sciences](https://www.geo.fu-berlin.de/en/geog/fachrichtungen/index.html)
 
@@ -193,6 +193,24 @@ Professors and Researchers：
 
 - **[Sören Hese](https://www.geo.fu-berlin.de/en/geog/fachrichtungen/geoinformatik/mitarbeiter_alt/shese/index.html)**: Machine learning algorithms in Earth observation, Remote Sensing, Land surface parameter retrieval, Forest ecosystem research, UAV data capturing;
 - **[Marion Stellmes](https://www.geo.fu-berlin.de/en/geog/fachrichtungen/geoinformatik/mitarbeiter/mstellmes/index.html)**: Remote Sensing, Time Series Analysis, Land Use Change.
+
+### HafenCity University Hamburg
+**HCU Hamburg**
+
+Hamburg, Germany
+
+Unit: [Geodesy and Geoinformatics](https://www.hcu-hamburg.de/en/master/geo)
+
+HafenCity University is a young university in the equally young HafenCity district of the Hanseatic City of Hamburg. In 2006, the Department of Geomatics at HAW was affiliated with the newly founded HafenCity University Hamburg (HCU) by political decision. Initially, Geomatics was organized in an independent department, but as of 2009, these disciplinary structures at HCU were replaced by innovative, interdisciplinary Education and Research Schools. As of October 2016, the Geomatics degree programs have merged into Geodesy and Geoinformatics and offer specializations in Geoinformation Technologies (GIT), Geodetic Metrology (GMT) and, taught entirely in English, Hydrography (Hydro).
+
+Our degree programs have received accreditation from ASIIN and thus have an independent seal of quality in the area of study and teaching. The specialization Hydrography has a special feature - unique in Germany: The program was internationally certified according to the "Standards of Competence of Hydrographic Surveyors" in category A.
+
+Professors:
+- **[Annette Eicker](https://www.hcu-hamburg.de/master/geo/professorinnen)**: higher geodesy, satellite gravimetry
+- **[Thomas Kersten](https://www.hcu-hamburg.de/master/geo/professorinnen)**: photogrammetry, laser scanning
+- **[Jochen Schiewe](https://www.hcu-hamburg.de/master/geo/professorinnen)**: geoinformatics, geovisualization
+- **[Harald Sternberg](https://www.hcu-hamburg.de/master/geo/professorinnen)**: geodesy, hydrography
+
 
 ### University of Hamburg
 **Uni-Hamburg**
@@ -205,6 +223,7 @@ The Institute of Geography at the University of Hamburg, founded in 1919, is a m
 
 Professors:
 - **[Jürgen Böhner](https://www.geo.uni-hamburg.de/en/geographie/mitarbeiterverzeichnis.html)**: regional climate and environmental modelling, climate impact research, geoinformatics and remote sensing, SAGA-GIS development.
+
 
 ### University of Hannover
 **Uni-Hannover**
