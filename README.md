@@ -256,3 +256,5 @@ China
 [Tunisia](https://gisphere.github.io/pages/africa/tunisia.html)
 
 [Benin](https://gisphere.github.io/pages/africa/benin.html) - coming soon
+
+New site coming soon: [https://gisphere.info](https://gisphere.info)
