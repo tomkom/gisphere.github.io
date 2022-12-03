@@ -593,7 +593,7 @@ Units: :
 
 Professors:
 
-- [Alemu Gonsamo](https://www.science.mcmaster.ca/ees/component/comprofiler/userprofile/gonsamoa.html?Itemid=903/): remote sensing, carbon cycle modeling, climate;
+- [Alemu Gonsamo](https://remotesensing-mcmaster.org): remote sensing, carbon cycle modeling, climate;
 - [Antonio Paez](https://www.science.mcmaster.ca/ees/component/comprofiler/userprofile/paezha.html?Itemid=903): spatial analysis, geostatistics, spatial data science, transportation;
 - [Darren Scott](https://www.science.mcmaster.ca/ees/component/comprofiler/userprofile/scottdm.html?Itemid=903): GIS, transportation, spatial data science, big data, GPS technology;
 - [Niko Yiannakoulias](https://www.science.mcmaster.ca/ees/component/comprofiler/userprofile/yiannan.html?Itemid=903): GIS, spatial analysis, agent-based modeling, environmental informatics.
