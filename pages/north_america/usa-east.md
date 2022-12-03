@@ -18,7 +18,7 @@ Professors:
 
 ### Clark University
 
-Wocester, Massachusetts, USA
+Worcester, Massachusetts, USA
 
 Unit: [Department of Geography](https://www.clarku.edu/departments/geography/)
 
@@ -444,7 +444,8 @@ Professors:
 - **[Anita Milman](https://eco.umass.edu/people/faculty/milman-anita/)**:  environmental governance, climate change adaptation, transboundary water, flood-mitigation, coupled-human environmental systems, collaborative governance, decision-making under uncertainty, environmental policy integration, integrated water resources management;
 - **[Ezra Markowitz](https://eco.umass.edu/people/faculty/markowitz-ezra/)**: sustainability, social well-being;
 - **[Timothy Randhir](https://eco.umass.edu/people/faculty/randhir-timothy-o/)**: watershed sciences, sustainability sciences, environmental sciences, ecological economics, landscape ecology, climate change, ecohydrology, computational modeling, management decision sciences, complex systems;
-- **[Lisa Komoroske](https://eco.umass.edu/people/faculty/komoroske-lisa/)**: global change, conservation management, ecological adaptation.
+- **[Lisa Komoroske](https://eco.umass.edu/people/faculty/komoroske-lisa/)**: global change, conservation management, ecological adaptation;
+- **[Andy Anderson](https://eco.umass.edu/people/adjunct-faculty/anderson-andy/)**: light pollution, remote sensing, GIST, data science.
 
 ### University of New Hampshire
 
