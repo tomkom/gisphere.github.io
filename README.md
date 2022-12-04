@@ -249,6 +249,8 @@ China
 
 [Nigeria](https://gisphere.github.io/pages/africa/nigeria.html)
 
+[Rwanda](https://gisphere.github.io/pages/africa/Rwanda.html)
+
 [South Africa](https://gisphere.github.io/pages/africa/south_africa.html)
 
 [Sudan](https://gisphere.github.io/pages/africa/sudan.html)
