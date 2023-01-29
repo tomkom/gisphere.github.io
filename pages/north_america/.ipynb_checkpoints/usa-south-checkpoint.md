@@ -6,7 +6,7 @@ Unit: [Department of Geography](https://geography.ua.edu/)
 
 The University of Alabama has the oldest department of geography (founded in 1903) in the traditional Deep South. This department provides MS and PhD degree programs in GIS. Research contents of graduate students are divided into four major directions, namely earth system sciences, environment and resources, environment and society, and geographic information science. The research directions within geographic information science include spatial modeling, GIS system, and computer-based cartography.
 
-Professors:
+相关导师:
 - **[Hongxing Liu](https://geography.ua.edu/profiles/hongxing-liu/)**: remote sensing, LiDAR, hydrology, limnology, cryosphere;
 - **[Luoheng Han](https://geography.ua.edu/profiles/luoheng-han/)**: remote sensing, spatial modeling, nutrients, water quality;
 - **[David J. Keellings](https://geography.ua.edu/profiles/david-keellings/)**: spatial analysis, quantitative methods, climate;
@@ -14,19 +14,6 @@ Professors:
 - **[Seth Appiah-Opoku](https://geography.ua.edu/profiles/seth-appiah-opoku/)**: spatial analysis, urban planning, transportation, ecology, environment;
 - **[Nicholas Magliocca](https://geography.ua.edu/profiles/nicholas-magliocca/)**: computational geography, agent-based models, human-environment interaction, food and energy;
 - **[Kevin M. Curtin](https://geography.ua.edu/profiles/kevin-m-curtin/)**: GIS, urban science, location science, transportation, geodatabase design.
-- **[Bennett Bearden](https://geography.ua.edu/profiles/bennett-bearden/)**: water policy and law, public policy analysis, mediation, watershed management, international environmental law.
-- **[Lisa Davis](https://geography.ua.edu/profiles/lisa-davis/)**: fluvial geomorphology, erosional and depositional geomorphology of rivers, paleoflood hydrology and flood science
-- **[Emily Elliott](https://geography.ua.edu/profiles/emily-elliott/)**: coastal geology, geochronology
-- **[Justin Hart](https://geography.ua.edu/profiles/justin-hart/)**: applied forest ecology, silviculture, natural resources management, phytogeography
-- **[Matthew LaFevor](https://geography.ua.edu/profiles/matthew-lafevor/)**: human-environment interactions, conservation & agriculture, water & soil management, mountain regions, Mexico, Caribbean, & Latin America
-- **[Matthew LaFevor](https://geography.ua.edu/profiles/matthew-lafevor/)**: human-environment interactions, conservation & agriculture, water & soil management, mountain regions, Mexico, Caribbean, & Latin America
-- **[Jared Margulies](https://geography.ua.edu/profiles/jared-margulies/)**: political ecology, environmental inequalities, human-nature relationships, social justice
-- **[Jason Senkbeil](https://geography.ua.edu/profiles/jason-c-senkbeil/)**: atmospheric hazards, applied climatology
-- **[Wanyun Shao](https://geography.ua.edu/profiles/wanyun-shao/)**: human dimensional climate change and natural hazards, community vulnerability and resiliencce, social response to hydrological hazards
-- **[Douglas J. Sherman](https://geography.ua.edu/profiles/douglas-j-sherman/)**: geomorphology
-- **[Michael Steinberg](https://geography.ua.edu/profiles/michael-k-steinberg/)**: cultural ecology, biogeography, endangered species, remote sensing and forest cover changes
-- **[Matthew Therrell](https://geography.ua.edu/profiles/matthew-therrell/)**: paleoclimate, dendrochronology, hydroclimatology, water resources, drought, flooding
-- **[Joe Weber](https://geography.ua.edu/profiles/joe-weber/)**: transport geography, national parks, urban geography, American West, historical GIS
 
 ### University of Georgia
 
