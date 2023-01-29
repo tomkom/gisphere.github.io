@@ -19,7 +19,6 @@ Professors:
 - **[Emily Elliott](https://geography.ua.edu/profiles/emily-elliott/)**: coastal geology, geochronology
 - **[Justin Hart](https://geography.ua.edu/profiles/justin-hart/)**: applied forest ecology, silviculture, natural resources management, phytogeography
 - **[Matthew LaFevor](https://geography.ua.edu/profiles/matthew-lafevor/)**: human-environment interactions, conservation & agriculture, water & soil management, mountain regions, Mexico, Caribbean, & Latin America
-- **[Matthew LaFevor](https://geography.ua.edu/profiles/matthew-lafevor/)**: human-environment interactions, conservation & agriculture, water & soil management, mountain regions, Mexico, Caribbean, & Latin America
 - **[Jared Margulies](https://geography.ua.edu/profiles/jared-margulies/)**: political ecology, environmental inequalities, human-nature relationships, social justice
 - **[Jason Senkbeil](https://geography.ua.edu/profiles/jason-c-senkbeil/)**: atmospheric hazards, applied climatology
 - **[Wanyun Shao](https://geography.ua.edu/profiles/wanyun-shao/)**: human dimensional climate change and natural hazards, community vulnerability and resiliencce, social response to hydrological hazards
