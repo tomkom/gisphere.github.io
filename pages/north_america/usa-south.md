@@ -146,27 +146,25 @@ Professors:
 - **[Cuizhen Wang](https://www.sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/wang_cuizhen.php)**: environmental remote sensing, spatial analysis;
 - **[Zhenlong Li](http://gis.cas.sc.edu/zhenlong/)**: geocomputation, cyberinfrastructure, spatial analysis, social media, population dynamics;
 - **[Michael Hodgson](https://www.sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/hodgson_michael.php)**: remote sensing (LiDAR), GIS modeling, cognitive studies;
-# University of South Carolina Professor_230207update
-
-- [Jessica Barnes](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/barnes_jessica.php): Environment, resource politics, water, development, Middle East;
-- [Gregory Carbone](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/carbone_gregory.php): Weather and climate;
-- [Susan Cutter](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/cutter_susan.php): Environmental hazards and risks, environmental policy, natural resources;
-- [Carl Dahlman](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/dahlman_carl.php): Political geography, critical geopolitics, migration, southeast Europe, Middle East;
-- [Meredith Deboom](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/deboom_meredith.php): Political geography, resource politics, human rights, Sub-Saharan Africa;
-- [Kirstin Dow](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/dow_kirstin.php): Human dimensions of environmental change, environmental hazards, environment and development;
-- [Jean Taylor Ellis](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/ellis_jean.php): Aeolian and coastal geomorphology, coastal management and hazards, sediment transport;
-- [Dean Hardy](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/hardy_dean.php): Political ecology, hazards geography, environmental justice studies, and critical race theory;
-- [Conor Harrison](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/harrison_conor.php): Economic geography, political economy, energy, environmental sustainability;
-- [April Hiscox](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/hiscox_april.php): Boundary layer meteorology, land-air interactions, forest meteorology, aerosol dispersion;
-- [Michael Hodgson](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/hodgson_michael.php): Geographic Information Systems, remote sensing, hazards;
-- [David Kneas](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/kneas_david.php): Political ecology, historical ethnography, Latin America;
-- [John Kupfer](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/kupfer_john.php): Biogeography, landscape ecology, public land and water management, spatial analysis;
-- [Zhenlong Li](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/li_zhenlong.php): GIScience, geospatial big data, spatial computing, social media analytics, GeoAI, cyberGIS;
-- [Jerry Mitchell](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/mitchell_jerry.php): Environmental hazards, geography education, Latin America;
-- [Cary Mock](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/mock_cary.php): Synoptic climatology, climate change, historical and quaternary environments;
-- [Caroline Nagel](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/nagel_caroline.php): Migration, multiculturalism, citizenship, religion, Lebanon;
-- [Catherine Studemeyer](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/studemeyer_catherine.php): Political geography, youth identity, Eastern Europe;
-- [Cuizhen (Susan) Wang](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/wang_cuizhen.php): Remote sensing, satellite time-series analysis, bio-environmental change.
+- **[Jessica Barnes](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/barnes_jessica.php)**: Environment, resource politics, water, development, Middle East;
+- **[Gregory Carbone](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/carbone_gregory.php)**: Weather and climate;
+- **[Susan Cutter](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/cutter_susan.php)**: Environmental hazards and risks, environmental policy, natural resources;
+- **[Carl Dahlman](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/dahlman_carl.php)**: Political geography, critical geopolitics, migration, southeast Europe, Middle East;
+- **[Meredith Deboom](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/deboom_meredith.php)**: Political geography, resource politics, human rights, Sub-Saharan Africa;
+- **[Kirstin Dow](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/dow_kirstin.php)**: Human dimensions of environmental change, environmental hazards, environment and development;
+- **[Jean Taylor Ellis](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/ellis_jean.php)**: Aeolian and coastal geomorphology, coastal management and hazards, sediment transport;
+- **[Dean Hardy](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/hardy_dean.php)**: Political ecology, hazards geography, environmental justice studies, and critical race theory;
+- **[Conor Harrison](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/harrison_conor.php)**: Economic geography, political economy, energy, environmental sustainability;
+- **[April Hiscox](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/hiscox_april.php)**: Boundary layer meteorology, land-air interactions, forest meteorology, aerosol dispersion;
+- **[Michael Hodgson](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/hodgson_michael.php)**: Geographic Information Systems, remote sensing, hazards;
+- **[David Kneas](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/kneas_david.php)**: Political ecology, historical ethnography, Latin America;
+- **[John Kupfer](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/kupfer_john.php)**: Biogeography, landscape ecology, public land and water management, spatial analysis;
+- **[Zhenlong Li](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/li_zhenlong.php)**: GIScience, geospatial big data, spatial computing, social media analytics, GeoAI, cyberGIS;
+- **[Jerry Mitchell](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/mitchell_jerry.php)**: Environmental hazards, geography education, Latin America;
+- **[Cary Mock](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/mock_cary.php)**: Synoptic climatology, climate change, historical and quaternary environments;
+- **[Caroline Nagel](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/nagel_caroline.php)**: Migration, multiculturalism, citizenship, religion, Lebanon;
+- **[Catherine Studemeyer](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/studemeyer_catherine.php)**: Political geography, youth identity, Eastern Europe;
+- **[Cuizhen (Susan) Wang](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/wang_cuizhen.php)**: Remote sensing, satellite time-series analysis, bio-environmental change.
 
 ### Auburn University
 
