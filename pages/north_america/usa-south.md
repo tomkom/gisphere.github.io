@@ -143,9 +143,6 @@ Unit: [Department of Geography](https://www.sc.edu/study/colleges_schools/artsan
 The geography department at the University of South Carolina is strong in research. Research fields of faculty members cover human geography, natural disasters, social perception, and deep learning, etc. John R. Jensen, a well-knwon educator and best-selling author in geography, and David J. Cowen, a celebrated expert in GIS education, application and outreaching, have worked here. The department operates masters and doctoral programs in GIS. Doctoral students need to have a master's degree (thesis-based) for entrance. The GIS courses offered by the department mainly include spatial analysis, meteorology and hydrology, disaster management, spatial big data, and network GIS, etc.
 
 Professors:
-- **[Cuizhen Wang](https://www.sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/wang_cuizhen.php)**: environmental remote sensing, spatial analysis;
-- **[Zhenlong Li](http://gis.cas.sc.edu/zhenlong/)**: geocomputation, cyberinfrastructure, spatial analysis, social media, population dynamics;
-- **[Michael Hodgson](https://www.sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/hodgson_michael.php)**: remote sensing (LiDAR), GIS modeling, cognitive studies;
 - **[Jessica Barnes](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/barnes_jessica.php)**: Environment, resource politics, water, development, Middle East;
 - **[Gregory Carbone](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/carbone_gregory.php)**: Weather and climate;
 - **[Susan Cutter](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/cutter_susan.php)**: Environmental hazards and risks, environmental policy, natural resources;
