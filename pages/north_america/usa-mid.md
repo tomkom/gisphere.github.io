@@ -11,7 +11,8 @@ Professors:
 - **[Julie Cidell](https://ggis.illinois.edu/directory/profile/jcidell)**: cities, policy, transportation;
 - **[Bruce Rhoads](https://ggis.illinois.edu/directory/profile/brhoads)**: river, watershed, and landscape dynamics;
 - **[Chunyuan Diao](https://ggis.illinois.edu/directory/profile/chunyuan)**: remote sensing;
-- **[James Leonard Best]( https://ggis.illinois.edu/directory/profile/jimbest)**: river, Spatial-time analysis.
+- **[James Leonard Best]( https://ggis.illinois.edu/directory/profile/jimbest)**: river, Spatial-time analysis;
+- **[Lijun Liu](https://geodynamics.web.illinois.edu/)** (Department of Geology):data-driven geology, data assimilation, geodynamics, tectonics, mantle convection.
 
 
 ### Northern Illinois University
