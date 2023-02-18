@@ -101,6 +101,9 @@ Professors:
 - [Sara Knox](https://blogs.ubc.ca/saraknox/): Climate: Science, Change, Action, Water, Ice, Landscapes
 - [Simon Donner](https://simondonner.com/): Climate: Science, Change, Action
 - [Trevor Barnes](https://blogs.ubc.ca/trevorbarnes/): Cities, Economies, Transnational Flows, Digital Geographies, Geospatial Analysis, GIS, Knowledge, Ideas, Practices War, Security, States
+- [Mathieu Bourbonnais](https://profiles.ucalgary.ca/sayeh-bayat): Geographic information sciences, spatial analysis and statistics, movement ecology, remote sensing;
+- [Jonathan Cinnamon](https://ccgs.ok.ubc.ca/about/contact/jonathan-cinnamon/): digital geographies; data studies; GIS and society; science and technology studies; urban studies; surveillance; digital and visual methods; alternative urbanism;
+- [Jon Corbett](https://ccgs.ok.ubc.ca/about/contact/jon-corbett/): Participatory Mapping, Geoweb, Community Based Research;
 
 ### University of Calgary (U-Calgary)
 
@@ -144,10 +147,11 @@ Department of Geography：
 - [Darren Bender](http://contacts.ucalgary.ca/info/geog/profiles/124-3766): GIS, quantitative spatial analysis, biogeography, ecology;
 - [Stefania Bertazzon](http://contacts.ucalgary.ca/info/geog/profiles/177-32759): spatial analysis, public health;
 - [Ryan Burns](http://contacts.ucalgary.ca/info/geog/profiles/1-7419978): digital geography, social big data, cartography, web mapping;
-- [Victoria Fast](http://contacts.ucalgary.ca/info/geog/profiles/1-7110301): urban GIS, smart cities;
+- [Victoria Fast](http://contacts.ucalgary.ca/info/geog/profiles/1-7110301): Canadian Urban Geography, Urban GIS, Critical GIS, Feminist Geography, Smart Cities, Geographic Visualization & Cartography, GIS Application, Sociospatial analysis;
 - [Geoff Hay](http://contacts.ucalgary.ca/info/geog/profiles/177-32909): GIS, spatial data science, image processing, remote sensing;
 - [Dan Jacobson](http://contacts.ucalgary.ca/info/geog/profiles/177-32766): digital humanities, cartography, history of GIS;
 - [Greg McDermid](http://contacts.ucalgary.ca/info/geog/profiles/177-32916): remote sensing, environmental informatics.
+- [Sayeh Bayat](https://profiles.ucalgary.ca/sayeh-bayat): Artificial Intelligence, Smart Cities, Health Monitoring, Mobility and Driving, Healthy Aging;
 
 Department of Survey：
 
@@ -245,6 +249,9 @@ St. George's Campus:
 - [Michael Widener](http://www.thinkingspatial.com/): agent-based modeling, spatial optimization, transportation, health geography, web mapping.
 - [Sarah Finkelstein](https://utpaleolab.wordpress.com/): Environment & Climate Physical Geography
 - [Tim Ross](https://hollandbloorview.ca/people/timothy-ross): Policy & Planning Urban
+- [Lindsey Smith](https://www.geography.utoronto.ca/people/directories/all-faculty/lindsey-smith): Health geography, GIS, Epidemiology, Built environments, Transport geography, Food access;
+- [Jane Liu](https://www.geography.utoronto.ca/people/directories/all-faculty/jane-liu): Environment & Climate GIS, Spatial Analysis & Modelling, Physical Geography;
+- [Damian Maddalena](https://www.geography.utoronto.ca/people/directories/all-faculty/damian-maddalena): Environment & Climate GIS, Spatial Analysis & Modelling, Physical Geography, Rural;
 
 Mississauga Campus:
 
@@ -424,6 +431,7 @@ Professors:
 - [Xulin Guo](https://research-groups.usask.ca/guo/biography.php#AboutMe): remote sensing, ecology, physical geography, GIS;
 - [Ehab Diabt](https://artsandscience.usask.ca/profile/EDiab#/research): GIS, transportation, land use, spatial big data;
 - [Avi Akkerman](https://artsandscience.usask.ca/profile/AAkkerman#/research): spatial modeling, transportation, urban development.
+- [Scott Bell](https://artsandscience.usask.ca/profile/SBell#ResearchAreas): Health geography, Geographic Information Science, Human spatial cognition, Navigation and wayfinding, Cartography;
 
 ### Saskatchewan Polytechnic
 
@@ -535,6 +543,7 @@ Professors:
 - [Karim El-Basyouny](https://www.ualberta.ca/engineering/research/groups/smart-transportation/people/faculty-and-staff/karim-el-basyouny.html): lidar remote sensing, intelligent transportation systems;
 - [Tae J. Kwon](https://www.ualberta.ca/engineering/research/groups/smart-transportation/people/faculty-and-staff/tae-kwon.html): geostatistics in transportation, geomatics (RS/GIS), spatiotemporal analysis of road traffic and safety;
 - [Amy Kim](https://www.ualberta.ca/engineering/research/groups/smart-transportation/people/faculty-and-staff/amy-kim.html): transportation systems analysis, transportation economics, air transportation, public transportation.
+- [Emily Grisé](https://apps.ualberta.ca/directory/person/egrise#:~:text=Emily%20Gris%C3%A9%20is%20a%20forward,with%20disabilities)%20and%20public%20transport): transport & land use planning, pedestrian & bicycle planning, travel behaviour;
 
 
 
@@ -660,6 +669,13 @@ Units:
   - Geology/Geological Sciences/Geological Engineering
     - [PhD, MSc, MASc](https://www.queensu.ca/geol/graduate)
 
+
+Professors:
+
+- [Dongming Chen](https://www.queensu.ca/geographyandplanning/people/chen-dongmei): GIS, remote sensing, spatial data analysis and modeling, change detection, machine learning methods;
+- [George Bevan](https://www.queensu.ca/geographyandplanning/people/bevan-george): Photogrammetry, Remotely Piloted Autonomous Systems, Cartography, Mobile GIS, Surveying, Historic Aerial and Satellite Imagery, Critical Heritage Studies, and Energy Geography
+
+
 ### Dalhousie University (DU)
 
 Halifax, Nova Scotia, Canada
@@ -736,6 +752,12 @@ Units:
 - Architecture, Civil, and Environmental Engineering
   - [Environmental Engineering](https://www.concordia.ca/ginacody/building-civil-environmental-eng/programs/environmental-eng.html)
     - PhD, MEng
+
+Professors:
+
+- [Sébastien Caquard](https://www.concordia.ca/artsci/geography-planning-environment/faculty.html?fpid=sebastien-caquard): Cartography, GIS, Mapping narratives, Geovisualization, Geoweb, Geomedia, Oral History;
+- [Pascale Biron](https://www.concordia.ca/artsci/geography-planning-environment/faculty.html?fpid=pascale-biron): Hydro-geomorphology and river dynamics, River management in agricultural watersheds, Geographical Information Systems, Morphodynamic numerical modelling, Stream restoration for fish habitat;
+
 
 ### University of Ottawa (UO)
 
@@ -824,3 +846,126 @@ Quebec City, Quebec, Canada
 Unit: [Faculty of Forestry, Geography, and Geomatics](https://www.ffgg.ulaval.ca/)
 
 The Laval University has [Master in Geomatic Sciences](https://www.scg.ulaval.ca/maitrise-en-sciences-geomatiques-avec-memoire), [Masters in Geomatics Applications](https://www.scg.ulaval.ca/maitrise-en-sciences-geomatiques-geomatique-appliquee) and [Geomatic Science PhD](https://www.scg.ulaval.ca/troisieme-cycle-en-geomatique) programs. The instructional language of this university is French, and good understanding of English is also required for graduate degree programs.
+
+
+### University of Northern British Columbia
+
+Prince George, BC, Canada
+Department: [Department of Geography](https://www2.unbc.ca/geography/graduate-programs)
+
+The University of Northern British Columbia is a small, research-intensive public university in British Columbia, Canada. The main campus is located in Prince George, with additional campuses located in Prince Rupert, Terrace, Quesnel, and Fort St. John. Graduate students at UNBC can choose from a set of interdisciplinary graduate degrees in Natural Resources and Environmental Studies (NRES) and Interdisciplinary Studies. 
+
+Professors:
+
+- [Roger Wheate](https://www2.unbc.ca/people/wheate-dr-roger): Cartography; GIS; remote sensing; map design and use; mapping from satellite image data;
+
+
+### University of Lethbridge
+
+Lethbridge, Alberta, Canada
+
+Department: [Department of Geography & Environment](https://www.ulethbridge.ca/artsci/geography)
+
+The University of Lethbridge is located in southern Alberta, and has an enrollment of over 7,500 undergraduate students and about 550 graduate students. The Department of Geography & Environment has a current enrollment of approximately 30 graduate students, 20 of which are studying at the master’s level.
+
+Professors:
+
+- [Chris Hopkinson](http://scholar.ulethbridge.ca/hopkinson): Natural resources assessment and environmental modeling through the integration of GIS and terrestrial, airborne and satellite lidar remote sensing;
+- [Stefan W Kienzle](http://people.uleth.ca/~stefan.kienzle/index.html): Modeling impacts of environmental change on watershed hydrology, Creation of a digital Hydro-climatological Atlas of Alberta; GIS Applications in Wildlife Habitat and Behaviour;
+- [Derek Peddle](http://people.uleth.ca/~derek.peddle/): Remote Sensing and GIS; Spatial Analysis and Computational Methods;
+- [Wei Xu](http://people.uleth.ca/~wei.xu/): China, urban and regional development, labor market dynamics, land use change, water resource management, research methods and GIS;
+
+### University of Regina
+
+Regina, Saskatchewan, Canada
+
+Department: [Department of Geography & Environmental Studies](https://www.uregina.ca/arts/geography/faculty-staff/index.html)
+
+The University of Regina is well-reputed for having a focus on experiential learning[[10]](https://en.wikipedia.org/wiki/University_of_Regina#cite_note-10)
+ and offers internships, professional placements and practicums in addition to cooperative education placements. Hoever, graduate program at the Department of Geography has been suspended until further notice. The Department is not currently offering a regular graduate program.
+
+Professors:
+
+- **[Julia Siemer](https://www.uregina.ca/arts/geography/faculty-staff/faculty/1-siemer-julia.html):** Analysis and mapping of food accessibility, Population cartography, Thematic cartography, Visualization in geographic information systems;
+
+### Brandon University
+
+Brandon, Manitoba, Canada
+
+Department: [Department of Geography and Environment](https://www.brandonu.ca/geography/)
+
+Brandon University offers a graduate degree in Interdisciplinary Master of Science in Environmental and Life Sciences (MELS) program. The department of Geography and Environment is one of the ‘core’ departments, along with Biology, Chemistry, Environmental Science and Geology. The department hosts the Centre for Geomatics, which is a dedicated computer lab with facilities for geographic information systems (GIS), remote sensing and cartography. In addition, The John Langton Tyman Geography Reading Room houses a collection of atlases and topographic maps of Manitoba and Canada, as well as maps from around the world.
+
+Professors:
+
+- [Dion J. Wiseman](https://people.brandonu.ca/wiseman/research/): Application of GIS and remote sensing technologies for paleoenvironmental landscape reconstruction and geoarchaeological investigations;
+
+### Wilfrid Laurier University
+
+Waterloo, Ontario, Canada
+
+Department: [Department of Geography and Environmental Studies](https://students.wlu.ca/programs/science/geography-and-environmental-studies/index.html)
+
+Wilfrid Laurier University is a public university in Ontario, Canada, with campuses in Waterloo, Brantford and Milton. The joint program offers the following degree programs:
+
+- Master of Arts (MA) — Thesis stream or Research Paper stream; full-time or part-time
+- Master of Environmental Studies (MES) — Thesis stream or Research Paper stream; full-time or part-time
+- Master of Science (MSc) — Thesis stream, normally full-time only
+
+The field of specialization includes Environmental and Resource Management, Environmental Science, Geomatics, and Human Geography.
+
+Professors:
+
+- [Sean Doherty](https://www.wlu.ca/academics/faculties/faculty-of-science/faculty-profiles/sean-doherty/index.html): Health geography, physical activity, local food, parks, GPS tracking;
+- [Steven A. Roberts](https://www.wlu.ca/academics/faculties/faculty-of-science/faculty-profiles/steven-a-roberts/index.html): GIS, land use planning, spatial data models and data structures; combinatorial optimization; genetic algorithms; landscape ecology; and parallel and shared memory computing;
+
+### Laval University
+
+Quebec City, Quebec, Canada
+
+Department: [Department of Geography](https://www.ggr.ulaval.ca/)
+
+Université Laval is one of the world's top 20 French-language universities. The department of Geography is under Faculty of Forestry, Geography and Geomatics. It offers both Master and Ph.D. degree for students:  Master's degree in geographical sciences with thesis; Master's degree in Geographical Sciences-Applied Geography; Professional master's degree in environmental biogeosciences; Master's Microprogram in Climate Change  (Distance) and Doctorate in Geographical Sciences.
+
+Professors: 
+
+- [Thierry Badard](https://www.scg.ulaval.ca/thierry-badard): GIS, mobile mapping, geolocated systems, databases;
+- [Eric Guilbert](https://www.scg.ulaval.ca/eric-guilbert): SIG, geometric modeling, digital terrain model;
+- [Frederic Hubert](https://www.scg.ulaval.ca/frederic-hubert): GIS, geovisualization, noise mapping, geospatial BI, geospatial web services
+- [Mir Abolfazl Mostafavi](https://www.scg.ulaval.ca/mir-abolfazl-mostafavi): GIS, augmented reality, data structure, geomatics and health
+- [Jacynthe Pouliot](https://www.scg.ulaval.ca/jacynthe-pouliot): 3D modeling, integration of spatial data, GIS, 3D cadastre;
+- [Stephane Roche](https://www.scg.ulaval.ca/stephane-roche): GIS, Cartography, Participation and territorial decision;
+
+### University of Montreal
+
+Montreal, Quebec, Canada
+
+Department: [Department of Geography](https://geographie.umontreal.ca/english/home/)
+
+The Université de Montréal is a French-language public research university in Montreal, Quebec, Canada. The university's main campus is located in the Côte-des-Neiges neighborhood of Côte-des-Neiges–Notre-Dame-de-Grâce on Mount Royal near the Outremont Summit, in the borough of Outremont. The Department of Geography offers Master's in Geography; Specialized Graduate Diploma in Geography Applied to the Environment (in French); Short Graduate Program in Geomatics and Spatial Analysis (in French); and PhD in Geography. The Master's in Geography program has 2 streams. First, Thesis option is designed for students aiming for careers in research or post-secondary teaching. Includes 36 credits for research and writing the dissertation. Second, internship or supervised project option is designed for students aiming for careers as professional geographers, this includes a practical training internship or a supervised project worth 15 credits.
+
+Professors:
+
+- [Liliana Perez](https://qcbs.ca/member?profile=169): Agent-based modelling, Complex Systems, Cellular Automata, AI, GIScience;
+- [François Girard](https://geographie.umontreal.ca/english/repertoire-departement/professors/professor/in/in18877/sg/François): Forest, biogeography, GIS, Modelling and statistics, Plant ecology, Dendro-ecology, Dendro-climatology, Spatial analysis;
+
+### Université du Québec à Montréal (UQAM)
+
+Montreal, Quebec, Canada
+
+Department: [Department of Geography](https://geo.uqam.ca/programmes/deuxieme-cycle/)
+
+The Université du Québec à Montréal, also known as UQAM, is a French-language public research university based in Montreal, Quebec, Canada. It is the largest constituent element of the University of Quebec system. The Department of Geography offers MA and Msc in Geography and Specialized Graduate Diplomas (DESS). One of the stream of Msc in Geography is Professional Profile in Land Use Planning and Geographic Information Systems,a two year full-time program or four-year part time program. DESS in geographic information systems trains highly qualified professionals in geomatics: GIS, Earth observation image processing, digital cartography, geospatial databases and interactive web maps, GPS, analysis space and geomatics applications in various fields, including land surveillance.
+
+### Université de Sherbrooke
+
+Sherbrooke, Quebec, Canada
+
+Department: [Department of Applied Geomatics](https://www.usherbrooke.ca/geomatique/etudes/programmes/2e-cycle/maitrise-en-geomatique-appliquee-et-teledetection-type-recherche)
+
+The University of Sherbrooke is a French-language public research university in Sherbrooke, Quebec, Canada, with a second campus in Longueuil, a suburb on the South Shore of Montreal. It is one of two universities in the Estrie region of Quebec, and the only French-language university for the region. The Department of Applied Geomatics offers Master's degree in applied geomatics and remote sensing in both research type and course-based type, including the study of geomatics, computer-assisted mapping, web-based geographic information systems (GIS), modeling and spatial analysis.
+
+Professors:
+
+- [Samuel Foucher](https://www.usherbrooke.ca/geomatique/departement/personnel/personnel-enseignant/samuel-foucher#acc-18951-4223): Geospatial data science, Data cubes, Deep learning applied to graphs, SAR imagery processing, Radar Polarimetry, Geomatics Standards;
+- [Mickaël Germain](https://www.usherbrooke.ca/geomatique/departement/personnel/personnel-enseignant/mickael-germain): GIS and Web Mapping, Geospatial databases, Machine learning and deep learning applied to geomatics, Mathematics applied to geomatics;
