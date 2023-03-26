@@ -91,3 +91,10 @@ Potchefstroom, North-West, South Africa
 Unit: [School of Geo and Spatial Sciences](https://natural-sciences.nwu.ac.za/geo-spatial-sciences/about-us) and [Unit for Environmental Sciences and Management](https://natural-sciences.nwu.ac.za/unit-environmental-sciences-and-management)
 
 The North-West University offers postgraduate diploma training, MSc, and PhD programs in geospatial sciences under the School of Geo and Spatial Sciences, as well as MSc and PhD programs in Urban and Regional Planning under its Unit for Environmental Sciences and Management.
+
+### University of South Africa
+Pretoria, Gauteng Province, South Africa
+
+Unit: [Department of Geography](https://www.unisa.ac.za/sites/corporate/default/Colleges/Agriculture-&-Environmental-Sciences/Schools,-departments,-centres-&-units/School-of-Ecological-and-Human-Sustainability/Department-of-Geography)
+
+University of South Africa operates a [Master of Science in Geography](https://www.unisa.ac.za/sites/corporate/default/Apply-for-admission/Master%27s-&-doctoral-degrees/Qualifications/All-qualifications/Master-of-Science-in-Geography-(98004)) program and [Doctor of Philosophy in Geography](https://www.unisa.ac.za/sites/corporate/default/Apply-for-admission/Master%27s-&-doctoral-degrees/Qualifications/All-qualifications/Doctor-of-Philosophy-in-Geography-(98012)) program under its College of Agriculture and Environmental Sciences.
