@@ -6,7 +6,7 @@ Unit: [Department of Geography](https://geography.ua.edu/)
 
 The University of Alabama has the oldest department of geography (founded in 1903) in the traditional Deep South. This department provides MS and PhD degree programs in GIS. Research contents of graduate students are divided into four major directions, namely earth system sciences, environment and resources, environment and society, and geographic information science. The research directions within geographic information science include spatial modeling, GIS system, and computer-based cartography.
 
-相关导师:
+Professors:
 - **[Hongxing Liu](https://geography.ua.edu/profiles/hongxing-liu/)**: remote sensing, LiDAR, hydrology, limnology, cryosphere;
 - **[Luoheng Han](https://geography.ua.edu/profiles/luoheng-han/)**: remote sensing, spatial modeling, nutrients, water quality;
 - **[David J. Keellings](https://geography.ua.edu/profiles/david-keellings/)**: spatial analysis, quantitative methods, climate;
@@ -14,6 +14,18 @@ The University of Alabama has the oldest department of geography (founded in 190
 - **[Seth Appiah-Opoku](https://geography.ua.edu/profiles/seth-appiah-opoku/)**: spatial analysis, urban planning, transportation, ecology, environment;
 - **[Nicholas Magliocca](https://geography.ua.edu/profiles/nicholas-magliocca/)**: computational geography, agent-based models, human-environment interaction, food and energy;
 - **[Kevin M. Curtin](https://geography.ua.edu/profiles/kevin-m-curtin/)**: GIS, urban science, location science, transportation, geodatabase design.
+- **[Bennett Bearden](https://geography.ua.edu/profiles/bennett-bearden/)**: water policy and law, public policy analysis, mediation, watershed management, international environmental law.
+- **[Lisa Davis](https://geography.ua.edu/profiles/lisa-davis/)**: fluvial geomorphology, erosional and depositional geomorphology of rivers, paleoflood hydrology and flood science
+- **[Emily Elliott](https://geography.ua.edu/profiles/emily-elliott/)**: coastal geology, geochronology
+- **[Justin Hart](https://geography.ua.edu/profiles/justin-hart/)**: applied forest ecology, silviculture, natural resources management, phytogeography
+- **[Matthew LaFevor](https://geography.ua.edu/profiles/matthew-lafevor/)**: human-environment interactions, conservation & agriculture, water & soil management, mountain regions, Mexico, Caribbean, & Latin America
+- **[Jared Margulies](https://geography.ua.edu/profiles/jared-margulies/)**: political ecology, environmental inequalities, human-nature relationships, social justice
+- **[Jason Senkbeil](https://geography.ua.edu/profiles/jason-c-senkbeil/)**: atmospheric hazards, applied climatology
+- **[Wanyun Shao](https://geography.ua.edu/profiles/wanyun-shao/)**: human dimensional climate change and natural hazards, community vulnerability and resiliencce, social response to hydrological hazards
+- **[Douglas J. Sherman](https://geography.ua.edu/profiles/douglas-j-sherman/)**: geomorphology
+- **[Michael Steinberg](https://geography.ua.edu/profiles/michael-k-steinberg/)**: cultural ecology, biogeography, endangered species, remote sensing and forest cover changes
+- **[Matthew Therrell](https://geography.ua.edu/profiles/matthew-therrell/)**: paleoclimate, dendrochronology, hydroclimatology, water resources, drought, flooding
+- **[Joe Weber](https://geography.ua.edu/profiles/joe-weber/)**: transport geography, national parks, urban geography, American West, historical GIS
 
 ### University of Georgia
 
@@ -131,9 +143,27 @@ Unit: [Department of Geography](https://www.sc.edu/study/colleges_schools/artsan
 The geography department at the University of South Carolina is strong in research. Research fields of faculty members cover human geography, natural disasters, social perception, and deep learning, etc. John R. Jensen, a well-knwon educator and best-selling author in geography, and David J. Cowen, a celebrated expert in GIS education, application and outreaching, have worked here. The department operates masters and doctoral programs in GIS. Doctoral students need to have a master's degree (thesis-based) for entrance. The GIS courses offered by the department mainly include spatial analysis, meteorology and hydrology, disaster management, spatial big data, and network GIS, etc.
 
 Professors:
-- **[Cuizhen Wang](https://www.sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/wang_cuizhen.php)**: environmental remote sensing, spatial analysis;
-- **[Zhenlong Li](http://gis.cas.sc.edu/zhenlong/)**: geocomputation, cyberinfrastructure, spatial analysis, social media, population dynamics;
-- **[Michael Hodgson](https://www.sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/hodgson_michael.php)**: remote sensing (LiDAR), GIS modeling, cognitive studies.
+- **[Jessica Barnes](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/barnes_jessica.php)**: Environment, resource politics, water, development, Middle East;
+- **[Gregory Carbone](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/carbone_gregory.php)**: Weather and climate;
+- **[Susan Cutter](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/cutter_susan.php)**: Environmental hazards and risks, environmental policy, natural resources;
+- **[Carl Dahlman](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/dahlman_carl.php)**: Political geography, critical geopolitics, migration, southeast Europe, Middle East;
+- **[Meredith Deboom](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/deboom_meredith.php)**: Political geography, resource politics, human rights, Sub-Saharan Africa;
+- **[Kirstin Dow](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/dow_kirstin.php)**: Human dimensions of environmental change, environmental hazards, environment and development;
+- **[Jean Taylor Ellis](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/ellis_jean.php)**: Aeolian and coastal geomorphology, coastal management and hazards, sediment transport;
+- **[Dean Hardy](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/hardy_dean.php)**: Political ecology, hazards geography, environmental justice studies, and critical race theory;
+- **[Conor Harrison](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/harrison_conor.php)**: Economic geography, political economy, energy, environmental sustainability;
+- **[April Hiscox](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/hiscox_april.php)**: Boundary layer meteorology, land-air interactions, forest meteorology, aerosol dispersion;
+- **[Michael Hodgson](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/hodgson_michael.php)**: Geographic Information Systems, remote sensing, hazards;
+- **[David Kneas](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/kneas_david.php)**: Political ecology, historical ethnography, Latin America;
+- **[John Kupfer](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/kupfer_john.php)**: Biogeography, landscape ecology, public land and water management, spatial analysis;
+- **[Zhenlong Li](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/li_zhenlong.php)**: GIScience, geospatial big data, spatial computing, social media analytics, GeoAI, cyberGIS;
+- **[Jerry Mitchell](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/mitchell_jerry.php)**: Environmental hazards, geography education, Latin America;
+- **[Cary Mock](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/mock_cary.php)**: Synoptic climatology, climate change, historical and quaternary environments;
+- **[Caroline Nagel](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/nagel_caroline.php)**: Migration, multiculturalism, citizenship, religion, Lebanon;
+- **[Catherine Studemeyer](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/studemeyer_catherine.php)**: Political geography, youth identity, Eastern Europe;
+- **[Cuizhen (Susan) Wang](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/wang_cuizhen.php)**: Remote sensing, satellite time-series analysis, bio-environmental change.
+- **[Yuhao Kang](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/kang_yuhao.php)**: GIScience, geospatial data science, place-based GIS, GeoAI, cartography, urban computing, social sensing;
+- **[Sicheng Wang](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/wang_sicheng.php)**: Planning, public policy, transportation technologies;
 
 ### Auburn University
 

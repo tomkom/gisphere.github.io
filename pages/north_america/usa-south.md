@@ -162,6 +162,8 @@ Professors:
 - **[Caroline Nagel](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/nagel_caroline.php)**: Migration, multiculturalism, citizenship, religion, Lebanon;
 - **[Catherine Studemeyer](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/studemeyer_catherine.php)**: Political geography, youth identity, Eastern Europe;
 - **[Cuizhen (Susan) Wang](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/wang_cuizhen.php)**: Remote sensing, satellite time-series analysis, bio-environmental change.
+- **[Yuhao Kang](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/kang_yuhao.php)**: GIScience, geospatial data science, place-based GIS, GeoAI, cartography, urban computing, social sensing;
+- **[Sicheng Wang](https://sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/wang_sicheng.php)**: Planning, public policy, transportation technologies;
 
 ### Auburn University
 
