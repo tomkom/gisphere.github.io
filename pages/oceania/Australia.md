@@ -20,17 +20,17 @@ Melbourne, Victoria, Australia
 
 Unit: [Department of Infrastructure Engineering](https://infrastructure.eng.unimelb.edu.au/research/geomatics/)
 
-The University of Melbourne is a top university in Australia with a global reputation. It is located in downtown Melbourne. The school’s Department of Infrastructure Engineering has programs in GIS with 8 faculty members, including two professors and two senior lecturers. The GIS-related research topic of this department mainly focuses on the GIS application in engineering and geo-computing and is strong in indoor navigation, spatial cognition, and traffic simulation. Both software and hardware aspects of these topics are studied. Professors Stephan Winter and Abbas Rajabifard are both internationally renowned scholars in their fields.
+The University of Melbourne is a top university in Australia with a global reputation. It is located in downtown Melbourne. The school’s Department of Infrastructure Engineering has programs in GIS with 8 faculty members, including two professors, three Associate Professors, and two senior lecturers. The group is also host to a ARC DECRA fellow. The GIS-related research the group mainly focuses on fundamental computational methods in GIScience, including in indoor navigation, spatial cognition, traffic simulation, digital twins, land administration, and machine learning in geospatial computer vision. Both software and hardware aspects of these topics are studied. Professors Stephan Winter and Abbas Rajabifard are both internationally renowned scholars in their fields.
 
 Professors:
 - **[Stephan Winter](https://people.eng.unimelb.edu.au/winter/)**: urban analytics, smart transport, human orientation, wayfinding and navigation, evacuation, information sharing, volunteered geographic information, shared mobility;
 - **[Abbas Rajabifard](https://findanexpert.unimelb.edu.au/profile/6142-abbas-rajabifard)**: design and development, land administration, marine SDI, capacity development, life sciences and biomedicine, science and technology;
-- **[Mohsen Kalantari Soltanieh](https://findanexpert.unimelb.edu.au/profile/99751-mohsen-kalantari-soltanieh)**: construction surveying, land administration, spatial data infrastructure, geospatial standards, building information modeling, 3D cadaster, laser scanning, digital twin;
 - **[Martin Tomko](https://findanexpert.unimelb.edu.au/profile/64610-martin-tomko)**: annotation, spatial communication, mobility analytics, spatial databases, autonomous data cleaning and integration, search and retrieval, spatial data quality, retail analytics;
 - **[Kourosh Khoshelham](https://findanexpert.unimelb.edu.au/profile/710868-kourosh-khoshelham)**: photogrammetry, building information modeling, pattern recognition and machine learning, mobile mapping, indoor location based service, laser scanning- lidar, remote sensing, science and technology;
 - **[Amir Khodabandeh](https://findanexpert.unimelb.edu.au/profile/827368-amir-khodabandeh)**: estimation theory, GNSS, navigation, earth observation, geodesy, Interferometric positioning, surveying, quality control, PPP-RTK ;
 - **[Jagannath Aryal](https://findanexpert.unimelb.edu.au/profile/865150-jagannath-aryal)**: urban analytics, modern land administration, systems modeling, earth observation, spatial statistics, GEOBIA, physical sciences;
 - **[Davood Shojaei](https://findanexpert.unimelb.edu.au/profile/427419-davood-shojaei)**: 3D cadaster, environmental sciences and ecology, environmental studies, eplan, remote sensing, life sciences and biomedicine, science and technology.
+- **[Behnam	Atazadeh](https://findanexpert.unimelb.edu.au/profile/653223-behnam-atazadeh)**: land administration, architecture and construction, urban planning, and building and facility management
 
 
 ### University of Adelaide
